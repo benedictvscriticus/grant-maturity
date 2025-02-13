@@ -3,7 +3,7 @@
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
 %Template version as of 6/27/2024
 
-\usepackage{cite}
+%\usepackage{cite}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
@@ -16,7 +16,7 @@
 \definecolor{dg}{RGB}{64,64,64}
 
 \usepackage[colorlinks = true,
-		citecolor = blue,
+		citecolor = black,
 		urlcolor= blue,
 		linkcolor=dg,]{hyperref}
 
@@ -40,17 +40,17 @@ Brookline (MA), United States \\
 
 \and
 \IEEEauthorblockN{3\textsuperscript{rd} Victoria Kozlova}
-\IEEEauthorblockA{\textit{WID3\textsuperscript{+}} \\
-\textit{acurraent UG} \\
+\IEEEauthorblockA{\textit{WID3\textsuperscript{+} Consortium} \\
+\textit{ACURRAENT UG} \\
 Frankfurt (Oder), Germany \\
 \href{https://orcid.org/0000-0003-3303-3143}{0000-0003-3303-3143}}
 }
 \maketitle
 
 \begin{abstract}
-This report introduces the Grant Maturity Index (GMI), a novel evaluative framework designed to assess the maturity and operational effectiveness of Web3 grant programs. As Web3 continues to develop, the decentralized nature of these programs brings both opportunities and challenges, particularly when it comes to governance, transparency, and community engagement. Traditional funding models are often governed by standardized processes, but Web3 grants lack such consistency, making it difficult for grant operators to measure the long-term success of their programs.
+This report introduces the Grant Maturity Framework (GMF), a novel evaluative framework designed to assess the maturity and operational effectiveness of Web3 grant programs. As Web3 continues to develop, the decentralised nature of these programs brings both opportunities and challenges, particularly when it comes to governance, transparency, and community engagement. Traditional funding models are often governed by standardised processes, but Web3 grants lack such consistency, making it difficult for grant operators to measure the long-term success of their programs.
 
-The \textit{Grant Maturity Index (GMI)} was created through \textit{exploratory applied research} to address this gap. Inspired by the World Bank’s GovTech Maturity Index (GTMI), the GMI is tailored specifically for the decentralized Web3 ecosystem. The GMI evaluates key dimensions of grant programs—governance, transparency, operational efficiency, and community engagement -- providing grant operators with a clear benchmark for assessing and improving their programs.
+The \textit{Grant Maturity Framework (GMF)} was created through \textit{exploratory applied research} to address this gap. Inspired by the World Bank’s GovTech Maturity Index (GTMI), the GMF is tailored specifically for the decentralised Web3 ecosystem. The GMI evaluates key dimensions of grant programs—governance, transparency, operational efficiency, and community engagement -- providing grant operators with a clear benchmark for assessing and improving their programs.
 
 The primary objectives of this research are to:
 \begin{itemize}
@@ -65,7 +65,62 @@ In this report, the GMI is applied to four major Ethereum Layer 2 grant programs
 maturity model, Web3 governance, decentralised autonomous organisations, crypto-economic systems, mixed-methods
 \end{IEEEkeywords}
 
-\section{Introduction}
+\section{Introduction}\label{sec_1}
+Web3 grants are a relatively new phenomenon that has seen little standardisation and lacks a systematic framework for comparing and evaluating their outcomes. While some work has been done on Web3 grants in the context of creating a framework for decentralised science (DeSci)~\cite{ding_desci_2022} and grants found mention in research on Web3 governance~\cite{allen_exchange_2022}, no further reference to Web3 grants is found in the literature across all disciplines, including procurement. The lack of exploratory and systematic literature describing the phenomenon of Web3 grants poses significant challenges to Web3 grantors, grant operators at grant-giving decentralised autonomous organisations (DAOs), and grantees who have to rely solely on industry knowledge and informal guides.
+
+In absence of a theoretical framework, the structure and benefits of decentralised grant programs cannot be reliably measured or tracked. This poses a problem for evaluating the utility of programs for allocating funding through distributed systems, specifically for dispersing grants. Decentralised networks are said to be more open and less rigid than hierarchically and centralised structures~\cite{ding_desci_2022}, but their inaccessibility to outsiders creates information asymmetries. If no systematic information is available for grant programs that are supposed to be open, Web3 grant processes become more closed than they were envisioned to be.
+
+Moreover, the effects of grants even in established sectors are difficult to measure, such as in the case of research grant funding by the European Union~\cite{selebaj_effects_2021}. Both Web3 grant programs and EU-backed grants share a diverse audience and grant operators face the challenge of properly assessing funding requests and their impact from a wide range of fields. Even for long-standing grant initiatives, like those by the EU, measuring grant program effects is only a recent trend~\cite{selebaj_effects_2021}. In the absence of formal, reliable, and complete data for Web3 grant programs, formal models for measuring capital efficiency cannot be applied~\cite{ odewole_capital_2020}.
+
+To that end, this research proposes the grant maturity framework (GMF), which aims to close the gap of a systematic framework that provides practitioners with ``a baseline and benchmark for [Web3 grant program] maturity and identifying areas for improvement''~ \cite{dener_govtech_2021}. The GMF builds on prior research by the World Bank Group’s (WBG) towards a government technology (GovTech) maturity index (GTMI). As for the GTMI, the GMF does not aim to rank individual grant programs. Rather the GMF introduces an exploratory weighted composite framework, which is constructed using mixed methods. For describing Web3 grant programs, the research is organised through three research questions.
+
+\begin{enumerate}
+\item How can the structure and outcomes of Web3 grant programs be measured?
+\item What maturity levels do popular Web3 grant programs exhibit?
+\item Which lessons can be learned for the technical design of Web3 grant platforms?
+\end{enumerate}
+
+The first research question aims at providing overall insight in the design, processes, and organisational structure that underpin Web3 grant programs. For responding to the second question, the maturity framework  is applied to four concrete Web3 grant programs for assessing their maturity. Towards answering the third research question, this paper analyses the outcomes of implementing the results from the GMF within the scope of an EU next generation internet (NGI) project that develops a grant funding platform according the principles of a user-centric approach (UCA). This research problem is addressed by using mixed-methods for comparing the grant programs of four popular Ethereum layer-two (L2) ecosystems with their own token according to their maturity, namely, Optimism, Arbitrum, Mantle (formerly known as BitDAO), and Taiko. In other words, the GMF analyses the effectivity of organisational measures towards improving Web3 grant program operations and outcomes by looking at round-over-round indicators and expert assessments. As a result, the GMF serves as a toolkit for Web3 grant operators, program principals, and stakeholders for tracking the effects of Web3 grant programs and translating these learnings into actionable insights for the development of grant funding platforms.
+
+\section{Background}\label{sec_2}
+
+This section provides an overview of the state of grant research in management science and Web3-specific literature. Research on public innovation funding is an established field of inquiry in management science~\cite{albors_impact_2011,bartle_review_2003}. Although representatives of Web3 may conjecture that Web3 cannot be described by applying traditional organisational theory, the emergence of non-onventional grant programs illustrates the shift from hierarchical structures to disintermediated crypto-economic systems Web3 stands for~\cite[p.~501]{shermin_disrupting_2017}. Grant programs also mitigate investment risk, the crypto and Web3 sector is well known for, by providing funding incrementally and connecting it with non-financial support, such as technical assistance~\cite[p.~6]{gilbert_sustainable_2019}.
+
+As a concept, grants are interesting because they connect organisational concepts of Web3, such as decentralised autonomous organisations (DAOs) with conventional economic studies of the public and private sector~\cite{ding_desci_2022,monteiro_decentralised_2023,wang_self-sovereign_2020}. For connecting the two disciplines, this research approaches the subject from a science and technology studies (STS) perspective. Following, DAOs are defined as “complex [...] smart contract [...] governance”~\cite[p.~501]{shermin_disrupting_2017} allowing for “human–machine hybrid [...] self-organization with no centralized hierarchy”~\cite[p.~1564]{ding_desci_2022}. In practice, the first DAO introduced the notion of DAOs acting as a “democratic investment fund”~\cite[p.~4]{santos_dao_2018}. According to this definition, DAOs combine established financial logic with disruptive technology and novel organisational structures. 
+
+Given the importance that is attributed to DAOs in respect of Web3 market structure, these organisations are now challenging the hegemonic structure of economic actors, most importantly the \textit{enterprise}~\cite{wang_novel_2024}. Stringently, DAOs may also take over the role of a procurement body or intermediate innovation procurement in Web3. Innovation procurement intermediation is defined as “provid[ing] a link between at least two entities which need to connect in order to generate or adopt innovation”~\cite[p.~416]{edler_connecting_2016}. In this regard, this paper argues that it is possible to transfer knowledge from conventional grant programs to Web3 grants because any grant program must engage with the general public. Both conventional grant programs and those in Web3 use blogs, hold webinars, publish social media posts, and disseminate educational materials. Thus, even Web3 grant programs cannot exclusively rely on blockchain rails, but at a minimum must intermediate between the funding body and the grant recipients. As this contribution attempts to introduce a general scoring methodology for Web3 grant programs, it is necessary to define the key concepts of the framework, \textit{i.e.} \textit{grants}, \textit{Web3}, and \textit{maturity}.
+
+Grants are broadly defined as ``a financial donation awarded by the contracting authority to the grant beneficiary'', which can be tied to a specific action or unrestricted for objectives of a specific organisation~\cite{european_commission_grants_2023}. Operators and observers of government grants for research and development (R\&D) have been analysing, evaluating, and measuring their impact almost as long as the concept exists, leading to criticism towards the effectiveness of grants in these contexts~\cite{howell_financing_2017,lerner_government_2000}. It was found that in the case of the United States (US) Small Business Innovation Research (SIBR) government R\&D grants improved employment and monetisation capacities of recipients, however, did not lead to an increased likelihood of venture capital investments~\cite{lerner_government_2000}.
+
+Thus, concerns over grant efficiency are not limited to Web3, but apply to grant programs both public and private in general. If the differing efficiency of the funding allocation does not distinguish Web3 grants from conventional grant programs, what makes Web3 grants different from public innovation procurement? While there is over forty years of evidence on the efficiency of the organisational structure for traditional innovation funding allocation~\cite[p.~4]{holmstrom_agency_1989}, organisational structures in Web3 are more volatile than those outside of crypto-economic systems~\cite[p.~25]{zuo_development_2023}. Web3 only emerged around 2014, when the technology was available to ``embrace[...] a set of protocols based on blockchain, which intends to reinvent how to return data ownership to users and let everyone equally participate in it''. Given that definition, Web3 is a relatively new phenomenon, which is to be expected to be less mature.\\
+
+\subsection{Web3 Grant Programs}
+
+Given the difficulty to measure quantitative output or impact (Ding et al., 2022; Howell, 2017) of grant programs, both in- and outside of Web3, it is worthwhile connecting grant programs with the systems they produce. To that end, Web3 is considered the signifying concept of existing grant programs using blockchain that distinguishes it from other existing grant programs. Furthermore, it is contextualised with the notion of maturity, which is a holistic concept aiming to assess both the processes and structures producing an outcome and the outcome according to its fitness for its intended purpose. Since DAOs were identified as a dominating feature of Web3 grant programs and represent a governance technology, this section draws from studies by the World Bank Group, which model the maturity of governance technologies.
+
+Exploratory and inductive research is helpful for mapping a new field of research, which justifies the approach of Leventhal \& Waqar (2023), but must now be underpinned by a more systematic approach. Since Web3 grants both govern resources and drive innovation of digital products, the World Bank GovTech Maturity Index (GTMI) offers an apt blueprint for systematic research on Web3 grants programs.
+
+The concept of the GTMI is interesting for analysing and comparing different Web3 grant programs because it does not rank, but measures the individual performance of participants in the quadrants “core government systems, public service delivery, citizen engagement, and GovTech enablers” (Dener et al., 2021, p. 6). These variables can be transposed into the context of Web3 grants, where the GMI comprises grant governance systems, grant delivery, stakeholder engagement, and grant program enablers. The categories are relevant for measuring the maturity of Web3 grant programs as they focus on organisational aspects rather than directly tracking inputs and outputs of the programs for determining their efficiency. Moreover, the index is limited to organisational structures of Web3 grant programs for emphasising the importance of particularities of DAOs as grant intermediating agents and principals. DAOs are known vehicles to deliver grants in Web3 (Austgen et al., 2023), thus it is relevant to address challenges of Web3 grant programs when making use of DAOs as organisational structure for governing the funds. 
+
+
+More importantly, it becomes evident that “grants [...] directly surface the relationship between DAOs and traditional challenges in treasury management and public finance” (Tan et al., 2023, p. 27). Consequently, the concept of maturity allows the description of the evolution of grant-giving, from classical efficiency considerations (Holmström, 1989) to organisational challenges posed by grants based on crypto-economic systems. Maturity models emerged both from innovation research in the health care sector and the information systems (IS) research, operating at the intersection of the public and private sector (Knosp et al., 2018; van Ede et al., 2024).
+
+Web3 grant programs typically encompass a blockchain network operator or backer, a program manager, applicants, and stakeholding communities (Gilbert et al., 2019; Howell, 2017). In this regard, Web3-specific programs largely do not differ from conventional grant programs except two aspects. Firstly, both backers and program managers behind Web3 grant programs typically are positioned in the private sector and their organisational structure does not necessarily conform with established governance structures, such as enterprises and public sector entities. Secondly, the programs exist for a significantly shorter period compared to governmental programs.
+
+Thus, they explicitly position themselves as programs on top of crypto-economic systems, which are discussed in the literature as “governance technologies” (Brekke, 2021, p. 10; Shermin, 2017b, p. 501). Subsequently, the desirable properties of crypto-economic systems, such as openness and transparency (Santos, 2018, p. 54), are then claimed to apply and enhance the outcomes of Web3 grant programs. Furthermore, an ever increasing set of governance mechanisms for the selection and distribution of grants is proclaimed as a quality marker or a sign of quality (Owocki \& Lister, 2024).
+
+Followingly, economic activity on a specific blockchain is measured by transaction count, transaction velocity, and total value locked (TVL). This is similar to macroeconomic indicators for nation states, such as the gross domestic product (GDP), and monetarist metrics such as the quantity theory of money (Sun \& Phillips, 2004). It inspired this contribution to inform the Web3 GMI with indices that assess the maturity of nation state governance technologies.
+
+\subsection{Grant Program Maturity}
+
+\section{Methodology}\label{sec_3}
+
+
+`the grant programs were qualitatively and quantitatively scored by researchers, and primary data was collected to triangulate the results \cite{creswell_designing_2017,datta_paradigm_2006}. For scoring the grant programs, this contribution draws from the Web3 grant rubric scoring framework \cite{biedermann_evaluating_2024}. Meanwhile, primary data collection was designed against the backdrop of challenges reported for conventional grant programs. For example, measuring the effectiveness and efficiency of grant giving, the influence of organisational design, and politico-economic stances are well known obstacles to grant program measurement~\cite{lerner_government_2000}).
+
+
+
+The paper responds to the research questions by measuring the effects of Web3 grant programs and testing the GMI. It proceeds as follows. First the background of this contribution is described, positioning the GMI both within the practitioners’ discourse and the academic literature. Second, the concept of maturity is explained and connected to the field of Web3 grant programs. Thereafter, the research methodology is laid out. The methodology is divided in two subsections progressing from the subjective-qualitative research stage towards the abductive definition of the GMI. Fourth, the data and results are described, which culminates in the presentation of the GMI. Finally, the paper closes by drawing conclusions and suggesting further avenues of research.
 
 
 \begin{table}[htbp]
@@ -96,18 +151,9 @@ copy& More table copy$^{\mathrm{a}}$& &  \\
 
 We thank Eugene and Matthew for review and contributions.
 
-\begin{thebibliography}{00}
-\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
-\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
-\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
-\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
-\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
-\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
-\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
-\bibitem{b8} D. P. Kingma and M. Welling, ``Auto-encoding variational Bayes,'' 2013, arXiv:1312.6114. [Online]. Available: https://arxiv.org/abs/1312.6114
-\bibitem{b9} S. Liu, ``Wi-Fi Energy Detection Testbed (12MTC),'' 2023, gitHub repository. [Online]. Available: https://github.com/liustone99/Wi-Fi-Energy-Detection-Testbed-12MTC
-\bibitem{b10} ``Treatment episode data set: discharges (TEDS-D): concatenated, 2006 to 2009.'' U.S. Department of Health and Human Services, Substance Abuse and Mental Health Services Administration, Office of Applied Studies, August, 2013, DOI:10.3886/ICPSR30122.v2
-\bibitem{b11} K. Eves and J. Valasek, ``Adaptive control for singularly perturbed systems examples,'' Code Ocean, Aug. 2023. [Online]. Available: https://codeocean.com/capsule/4989235/tree
-\end{thebibliography}
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,ieee_icbc_tc_bib}
+
+
 
 \end{document}
