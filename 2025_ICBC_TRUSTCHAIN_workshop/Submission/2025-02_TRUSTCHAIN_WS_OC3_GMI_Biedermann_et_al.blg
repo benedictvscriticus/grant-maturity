@@ -15,45 +15,45 @@ Database file #2: ieee_icbc_tc_bib.bib
 Warning--missing school in santos_dao_2018
 
 Done.
-You've used 22 entries,
+You've used 31 entries,
             4024 wiz_defined-function locations,
-            1487 strings with 22679 characters,
-and the built_in function-call counts, 17147 in all, are:
-= -- 1501
-> -- 332
-< -- 147
-+ -- 185
-- -- 52
-* -- 941
-:= -- 2777
-add.period$ -- 46
-call.type$ -- 22
-change.case$ -- 32
-chr.to.int$ -- 330
-cite$ -- 23
-duplicate$ -- 1184
-empty$ -- 1261
-format.name$ -- 66
-if$ -- 3837
+            1541 strings with 25310 characters,
+and the built_in function-call counts, 23992 in all, are:
+= -- 2056
+> -- 560
+< -- 183
++ -- 301
+- -- 101
+* -- 1323
+:= -- 3861
+add.period$ -- 64
+call.type$ -- 31
+change.case$ -- 45
+chr.to.int$ -- 402
+cite$ -- 32
+duplicate$ -- 1672
+empty$ -- 1750
+format.name$ -- 123
+if$ -- 5358
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 207
-newline$ -- 123
-num.names$ -- 24
-pop$ -- 400
+int.to.str$ -- 31
+missing$ -- 320
+newline$ -- 168
+num.names$ -- 33
+pop$ -- 667
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1293
+skip$ -- 1790
 stack$ -- 0
-substring$ -- 810
-swap$ -- 1067
-text.length$ -- 37
+substring$ -- 1001
+swap$ -- 1491
+text.length$ -- 49
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 22
+type$ -- 31
 warning$ -- 1
-while$ -- 79
-width$ -- 24
-write$ -- 294
+while$ -- 101
+width$ -- 33
+write$ -- 406
 (There was 1 warning)
