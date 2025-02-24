@@ -187,6 +187,15 @@ E.~Leventhal and M.~Waqar, ``\BIBforeignlanguage{en-GB}{State of {Web3}
   \url{https://docs.google.com/document/u/1/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit?usp=sharing&usp=embed_facebook}
 \BIBentrySTDinterwordspacing
 
+\bibitem{leventhal_state_2024}
+\BIBentryALTinterwordspacing
+E.~Leventhal, M.~Waqar, A.~Liu, B.~Biedermann, F.~Gibrel, H.~Devjani,
+  {LauNaMu}, M.~Grendel, S.~Mori, and V.~Elefante, ``State of {Web3} {Grants}
+  {Report} 2024,'' Metagovernance Project, Tech. Rep., Sep. 2024. [Online].
+  Available:
+  \url{https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view?usp=drive_link&usp=embed_facebook}
+\BIBentrySTDinterwordspacing
+
 \bibitem{austgen_dao_2023}
 \BIBentryALTinterwordspacing
 J.~Austgen, A.~F{\'a}brega, S.~Allen, K.~Babel, M.~Kelkar, and A.~Juels,
@@ -203,24 +212,6 @@ J.~Z. Tan, T.~Merk, S.~Hubbard, E.~R. Oak, J.~Pirovich, E.~Rennie, R.~Hoefer,
   A.~Maddox, W.~Lim, T.~South, A.~Juels, and D.~Boneh, ``Open {Problems} in
   {DAOs},'' Oct. 2023, arXiv:2310.19201 [cs] version: 1. [Online]. Available:
   \url{http://arxiv.org/abs/2310.19201}
-\BIBentrySTDinterwordspacing
-
-\bibitem{van_ede_assembling_2024}
-\BIBentryALTinterwordspacing
-A.~F. T.~M. van Ede, K.~V. Stein, and M.~A. Bruijnzeels, ``Assembling a
-  population health management maturity index using a {Delphi} method,''
-  \emph{BMC Health Services Research}, vol.~24, no.~1, p. 110, Jan. 2024.
-  [Online]. Available: \url{https://doi.org/10.1186/s12913-024-10572-5}
-\BIBentrySTDinterwordspacing
-
-\bibitem{knosp_research_2018}
-\BIBentryALTinterwordspacing
-B.~M. Knosp, W.~K. Barnett, N.~R. Anderson, and P.~J. Embi,
-  ``\BIBforeignlanguage{en}{Research {IT} maturity models for academic health
-  centers: {Early} development and initial evaluation},''
-  \emph{\BIBforeignlanguage{en}{Journal of Clinical and Translational
-  Science}}, vol.~2, no.~5, pp. 289--294, Oct. 2018. [Online]. Available:
-  \url{https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/research-it-maturity-models-for-academic-health-centers-early-development-and-initial-evaluation/F4FAF953A4C2ACEC9DE8EB8EFBBBD9F3}
 \BIBentrySTDinterwordspacing
 
 \bibitem{brekke_hacker-engineers_2021}
@@ -246,6 +237,24 @@ Y.~Sun and P.~C.~B. Phillips, ``\BIBforeignlanguage{en}{Understanding the
   Econometrics}}, vol.~19, no.~7, pp. 869--886, 2004, \_eprint:
   https://onlinelibrary.wiley.com/doi/pdf/10.1002/jae.760. [Online]. Available:
   \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.760}
+\BIBentrySTDinterwordspacing
+
+\bibitem{van_ede_assembling_2024}
+\BIBentryALTinterwordspacing
+A.~F. T.~M. van Ede, K.~V. Stein, and M.~A. Bruijnzeels, ``Assembling a
+  population health management maturity index using a {Delphi} method,''
+  \emph{BMC Health Services Research}, vol.~24, no.~1, p. 110, Jan. 2024.
+  [Online]. Available: \url{https://doi.org/10.1186/s12913-024-10572-5}
+\BIBentrySTDinterwordspacing
+
+\bibitem{knosp_research_2018}
+\BIBentryALTinterwordspacing
+B.~M. Knosp, W.~K. Barnett, N.~R. Anderson, and P.~J. Embi,
+  ``\BIBforeignlanguage{en}{Research {IT} maturity models for academic health
+  centers: {Early} development and initial evaluation},''
+  \emph{\BIBforeignlanguage{en}{Journal of Clinical and Translational
+  Science}}, vol.~2, no.~5, pp. 289--294, Oct. 2018. [Online]. Available:
+  \url{https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/research-it-maturity-models-for-academic-health-centers-early-development-and-initial-evaluation/F4FAF953A4C2ACEC9DE8EB8EFBBBD9F3}
 \BIBentrySTDinterwordspacing
 
 \bibitem{creswell_designing_2017}

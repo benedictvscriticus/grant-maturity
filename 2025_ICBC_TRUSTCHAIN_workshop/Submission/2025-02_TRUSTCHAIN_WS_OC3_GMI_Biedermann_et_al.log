@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  22 FEB 2025 01:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  23 FEB 2025 01:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -472,24 +472,22 @@ e, de-cen-
 ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-]
-Underfull \hbox (badness 1838) in paragraph at lines 95--96
-\OT1/ptm/m/n/10 al-lo-ca-tion [[], p. 4], or-gan-i-sa-tional struc-tures in Web
-3
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-[2]
-<suibond.png, id=121, 1564.84625pt x 929.4725pt>
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 131--146
+[][]
+ []
+
+<suibond.png, id=138, 1564.84625pt x 929.4725pt>
 File: suibond.png Graphic file (type png)
 <use suibond.png>
-Package pdftex.def Info: suibond.png  used on input line 144.
+Package pdftex.def Info: suibond.png  used on input line 186.
 (pdftex.def)             Requested size: 156.49379pt x 92.95268pt.
- (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl [3]
+(./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl [4]
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -559,6 +557,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--189
 \OT1/ptm/m/n/8 1CFD6ztSh2ggJSO-[]U3uEea92UVB1cRbvBlA1tfPxLKi8 / edit ? usp =
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--198
+[][]$\OT1/ptm/m/n/8 https : / / drive . google . com / ^^Lle / d / 1JBbGos6Bjdv
+d1LRGDvIijREic4l7Th2I /
+ []
+
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -569,13 +582,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--189
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--225
+Underfull \hbox (badness 10000) in paragraph at lines 252--259
 \OT1/ptm/m/n/8 org / core / journals / journal-[]of-[]clinical-[]and-[]translat
 ional-[]science / article /
  []
 
 
-Overfull \hbox (89.57214pt too wide) in paragraph at lines 218--225
+Overfull \hbox (89.57214pt too wide) in paragraph at lines 252--259
 \OT1/ptm/m/n/8 research-[]it-[]maturity-[]models-[]for-[]academic-[]health-[]ce
 nters-[]early-[]development-[]and-[]initial-[]evaluation /
  []
@@ -583,16 +596,7 @@ nters-[]early-[]development-[]and-[]initial-[]evaluation /
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-[4 <./suibond.png>])
+[5 <./suibond.png>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -604,7 +608,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
+[6
 
 ] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
  ***********
@@ -616,24 +620,24 @@ al.out' has not changed.
 (rerunfilecheck)             Checksum: B3610AF133187A346B21A7E2D6A9A5DB;719.
  ) 
 Here is how much of TeX's memory you used:
- 11197 strings out of 474143
- 174991 string characters out of 5744766
+ 11204 strings out of 474143
+ 175087 string characters out of 5744766
  1963187 words of memory out of 5000000
- 33341 multiletter control sequences out of 15000+600000
+ 33345 multiletter control sequences out of 15000+600000
  604906 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1512b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1512b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
 exlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (5 pages, 
-392136 bytes).
+Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (6 pages, 
+397889 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
