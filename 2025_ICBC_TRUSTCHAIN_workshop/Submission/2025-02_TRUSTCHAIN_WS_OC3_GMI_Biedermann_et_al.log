@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  23 FEB 2025 01:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  25 FEB 2025 03:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -472,22 +472,35 @@ e, de-cen-
 ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 131--146
+] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 122--136
 [][]
  []
 
-<suibond.png, id=138, 1564.84625pt x 929.4725pt>
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]\OT1/ptm/m/n/8 Governance struc-ture, trans-parency,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+[]\OT1/ptm/m/n/8 Transparent, ac-count-able re-port-ing
+ []
+
+
+Overfull \hbox (8.15794pt too wide) in paragraph at lines 190--208
+[][]
+ []
+
+<suibond.png, id=175, 1564.84625pt x 929.4725pt>
 File: suibond.png Graphic file (type png)
 <use suibond.png>
-Package pdftex.def Info: suibond.png  used on input line 186.
+Package pdftex.def Info: suibond.png  used on input line 236.
 (pdftex.def)             Requested size: 156.49379pt x 92.95268pt.
-(./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl [4]
+(./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -537,32 +550,25 @@ Package pdftex.def Info: suibond.png  used on input line 186.
 ** loaded for the language `en-GB'. Using the pattern for
 ** the default language instead.
 
-Underfull \hbox (badness 1783) in paragraph at lines 185--189
+Underfull \hbox (badness 1783) in paragraph at lines 186--190
 []\OT1/ptm/m/n/8 E. Lev-en-thal and M. Waqar, ``State of Web3
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 185--189
+Underfull \hbox (badness 1484) in paragraph at lines 186--190
 \OT1/ptm/m/n/8 Grants Re-port,'' MetaGov, Tech. Rep., Sep. 2023.
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 185--189
+Underfull \hbox (badness 4967) in paragraph at lines 186--190
 \OT1/ptm/m/n/8 [On-line]. Avail-able: [][]$https : / / docs . google . com / do
 cument / u / 1 / d /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 185--189
-\OT1/ptm/m/n/8 1CFD6ztSh2ggJSO-[]U3uEea92UVB1cRbvBlA1tfPxLKi8 / edit ? usp =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--198
-[][]$\OT1/ptm/m/n/8 https : / / drive . google . com / ^^Lle / d / 1JBbGos6Bjdv
-d1LRGDvIijREic4l7Th2I /
- []
-
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+[6 <./suibond.png>]
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -581,22 +587,28 @@ d1LRGDvIijREic4l7Th2I /
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--259
-\OT1/ptm/m/n/8 org / core / journals / journal-[]of-[]clinical-[]and-[]translat
-ional-[]science / article /
- []
-
-
-Overfull \hbox (89.57214pt too wide) in paragraph at lines 252--259
-\OT1/ptm/m/n/8 research-[]it-[]maturity-[]models-[]for-[]academic-[]health-[]ce
-nters-[]early-[]development-[]and-[]initial-[]evaluation /
- []
-
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
-[5 <./suibond.png>])
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -608,7 +620,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6
+[7
 
 ] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
  ***********
@@ -617,27 +629,27 @@ L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_
 al.out' has not changed.
-(rerunfilecheck)             Checksum: B3610AF133187A346B21A7E2D6A9A5DB;719.
+(rerunfilecheck)             Checksum: 68F653CDA6C6987627752F287B8E6E52;1308.
  ) 
 Here is how much of TeX's memory you used:
- 11204 strings out of 474143
- 175087 string characters out of 5744766
- 1963187 words of memory out of 5000000
- 33345 multiletter control sequences out of 15000+600000
+ 11225 strings out of 474143
+ 175611 string characters out of 5744766
+ 1962187 words of memory out of 5000000
+ 33355 multiletter control sequences out of 15000+600000
  604906 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1512b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1892b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
 exlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/20
 23/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (6 pages, 
-397889 bytes).
+Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (7 pages, 
+408442 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 288 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -116,7 +116,8 @@ F.~Wang and P.~De~Filippi, ``\BIBforeignlanguage{en}{Self-{Sovereign}
 \bibitem{santos_dao_2018}
 \BIBentryALTinterwordspacing
 F.~Santos, ``The dao: miljoni dollari {\~o}ppetund {Blockchaini}
-  valitsemises,'' Ph.D. dissertation, Jan. 2018. [Online]. Available:
+  valitsemises,'' Ph.D. dissertation, Tallinn University of Technology, Jan.
+  2018. [Online]. Available:
   \url{https://digikogu.taltech.ee/et/item/9a66d3af-25ca-4552-8a6d-de54d357ff58}
 \BIBentrySTDinterwordspacing
 
@@ -184,7 +185,7 @@ S.~Wan, H.~Lin, W.~Gan, J.~Chen, and P.~S. Yu, ``Web3: {The} {Next} {Internet}
 \BIBentryALTinterwordspacing
 E.~Leventhal and M.~Waqar, ``\BIBforeignlanguage{en-GB}{State of {Web3}
   {Grants} {Report}},'' MetaGov, Tech. Rep., Sep. 2023. [Online]. Available:
-  \url{https://docs.google.com/document/u/1/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/edit?usp=sharing&usp=embed_facebook}
+  \url{https://docs.google.com/document/u/1/d/1CFD6ztSh2ggJSO-U3uEea92UVB1cRbvBlA1tfPxLKi8/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{leventhal_state_2024}
@@ -193,7 +194,7 @@ E.~Leventhal, M.~Waqar, A.~Liu, B.~Biedermann, F.~Gibrel, H.~Devjani,
   {LauNaMu}, M.~Grendel, S.~Mori, and V.~Elefante, ``State of {Web3} {Grants}
   {Report} 2024,'' Metagovernance Project, Tech. Rep., Sep. 2024. [Online].
   Available:
-  \url{https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view?usp=drive_link&usp=embed_facebook}
+  \url{https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{austgen_dao_2023}
@@ -254,7 +255,69 @@ B.~M. Knosp, W.~K. Barnett, N.~R. Anderson, and P.~J. Embi,
   centers: {Early} development and initial evaluation},''
   \emph{\BIBforeignlanguage{en}{Journal of Clinical and Translational
   Science}}, vol.~2, no.~5, pp. 289--294, Oct. 2018. [Online]. Available:
-  \url{https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/research-it-maturity-models-for-academic-health-centers-early-development-and-initial-evaluation/F4FAF953A4C2ACEC9DE8EB8EFBBBD9F3}
+  \url{https://doi.org/10.1017/cts.2018.339}
+\BIBentrySTDinterwordspacing
+
+\bibitem{queensland_audit_office_risk_2023}
+\BIBentryALTinterwordspacing
+{Queensland Audit Office}, ``\BIBforeignlanguage{en}{Risk management maturity
+  model},'' Tech. Rep., Jun. 2023. [Online]. Available:
+  \url{https://www.qao.qld.gov.au/reports-resources/better-practice/risk-management-maturity-model}
+\BIBentrySTDinterwordspacing
+
+\bibitem{kucinska-landwojtowicz_organizational_2023}
+\BIBentryALTinterwordspacing
+A.~Kuci{\'n}ska-Landw{\'o}jtowicz, I.~D. Czabak-G{\'o}rska, P.~Domingues,
+  P.~Sampaio, and C.~Ferradaz~de Carvalho, ``Organizational maturity models:
+  the leading research fields and opportunities for further studies,''
+  \emph{International Journal of Quality \& Reliability Management}, vol.~41,
+  no.~1, pp. 60--83, Jan. 2023, publisher: Emerald Publishing Limited.
+  [Online]. Available: \url{https://doi.org/10.1108/IJQRM-12-2022-0360}
+\BIBentrySTDinterwordspacing
+
+\bibitem{yatskovskaya_integrated_2018}
+\BIBentryALTinterwordspacing
+E.~Yatskovskaya, J.~S. Srai, and M.~Kumar, ``\BIBforeignlanguage{en}{Integrated
+  {Supply} {Network} {Maturity} {Model}: {Water} {Scarcity} {Perspective}},''
+  \emph{\BIBforeignlanguage{en}{Sustainability}}, vol.~10, no.~3, p. 896, Mar.
+  2018, number: 3 Publisher: Multidisciplinary Digital Publishing Institute.
+  [Online]. Available: \url{https://www.mdpi.com/2071-1050/10/3/896}
+\BIBentrySTDinterwordspacing
+
+\bibitem{becker_developing_2009}
+\BIBentryALTinterwordspacing
+J.~Becker, R.~Knackstedt, and J.~P{\"o}ppelbu{\ss},
+  ``\BIBforeignlanguage{en}{Developing {Maturity} {Models} for {IT}
+  {Management}},'' \emph{\BIBforeignlanguage{en}{Business \& Information
+  Systems Engineering}}, vol.~1, no.~3, pp. 213--222, Jun. 2009. [Online].
+  Available: \url{https://doi.org/10.1007/s12599-009-0044-5}
+\BIBentrySTDinterwordspacing
+
+\bibitem{pereira_review_2020}
+\BIBentryALTinterwordspacing
+R.~Pereira and J.~Serrano, ``\BIBforeignlanguage{en}{A review of methods used
+  on {IT} maturity models development: {A} systematic literature review and a
+  critical analysis},'' \emph{\BIBforeignlanguage{en}{Journal of Information
+  Technology}}, vol.~35, no.~2, pp. 161--178, Jun. 2020, publisher: SAGE
+  Publications Ltd. [Online]. Available:
+  \url{https://doi.org/10.1177/0268396219886874}
+\BIBentrySTDinterwordspacing
+
+\bibitem{andersen_e-government_2006}
+\BIBentryALTinterwordspacing
+K.~V. Andersen and H.~Z. Henriksen, ``E-government maturity models: {Extension}
+  of the {Layne} and {Lee} model,'' \emph{Government Information Quarterly},
+  vol.~23, no.~2, pp. 236--248, Jan. 2006. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0740624X05000973}
+\BIBentrySTDinterwordspacing
+
+\bibitem{johansson_roadmap_2019}
+\BIBentryALTinterwordspacing
+C.~Johansson, C.~Grandien, and K.~Strandh, ``Roadmap for a communication
+  maturity index for organizations---{Theorizing}, analyzing and developing
+  communication value,'' \emph{Public Relations Review}, vol.~45, no.~4, p.
+  101791, Nov. 2019. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0363811118304065}
 \BIBentrySTDinterwordspacing
 
 \bibitem{creswell_designing_2017}
