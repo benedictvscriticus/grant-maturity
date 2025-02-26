@@ -220,8 +220,8 @@ J.~Z. Tan, T.~Merk, S.~Hubbard, E.~R. Oak, J.~Pirovich, E.~Rennie, R.~Hoefer,
 J.~K. Brekke, ``Hacker-engineers and {Their} {Economies}: {The} {Political}
   {Economy} of {Decentralised} {Networks} and `{Cryptoeconomics}','' \emph{New
   Political Economy}, vol.~26, no.~4, pp. 646--659, Jul. 2021, publisher:
-  Routledge \_eprint: https://doi.org/10.1080/13563467.2020.1806223. [Online].
-  Available: \url{https://doi.org/10.1080/13563467.2020.1806223}
+  Routledge. [Online]. Available:
+  \url{https://doi.org/10.1080/13563467.2020.1806223}
 \BIBentrySTDinterwordspacing
 
 \bibitem{owocki_gitcoin_2024}
@@ -261,7 +261,8 @@ B.~M. Knosp, W.~K. Barnett, N.~R. Anderson, and P.~J. Embi,
 \bibitem{queensland_audit_office_risk_2023}
 \BIBentryALTinterwordspacing
 {Queensland Audit Office}, ``\BIBforeignlanguage{en}{Risk management maturity
-  model},'' Tech. Rep., Jun. 2023. [Online]. Available:
+  model},'' Queensland Audit Office, Tech. Rep., Jun. 2023. [Online].
+  Available:
   \url{https://www.qao.qld.gov.au/reports-resources/better-practice/risk-management-maturity-model}
 \BIBentrySTDinterwordspacing
 
@@ -320,6 +321,13 @@ C.~Johansson, C.~Grandien, and K.~Strandh, ``Roadmap for a communication
   \url{https://www.sciencedirect.com/science/article/pii/S0363811118304065}
 \BIBentrySTDinterwordspacing
 
+\bibitem{biedermann_evaluating_2024}
+\BIBentryALTinterwordspacing
+B.~Biedermann and F.~Gibrel, ``Evaluating {Progress} in {Web3} {Grants}:
+  {Introducing} the {Grant} {Maturity} {Index},'' Oct. 2024, arXiv:2410.19828.
+  [Online]. Available: \url{http://arxiv.org/abs/2410.19828}
+\BIBentrySTDinterwordspacing
+
 \bibitem{creswell_designing_2017}
 J.~W. Creswell and V.~L.~P. Clark, \emph{\BIBforeignlanguage{en}{Designing and
   {Conducting} {Mixed} {Methods} {Research}}}.\hskip 1em plus 0.5em minus
@@ -330,11 +338,117 @@ L.-E. Datta, ``Paradigm {Wars}: {A} {Basis} for {Peaceful} {Coexistence} and
   {Beyond},'' in \emph{Mixed methods}, A.~Bryman, Ed.\hskip 1em plus 0.5em
   minus 0.4em\relax London [etc.]: SAGE, 2006, pp. 31--52.
 
-\bibitem{biedermann_evaluating_2024}
+\bibitem{popper_objective_1973}
+K.~R. Popper, \emph{Objective {Knwoledge} an evolutionary approach}.\hskip 1em
+  plus 0.5em minus 0.4em\relax S.l.: Clarendon Press, 1973.
+
+\bibitem{hutton_abstraction_1990}
+C.~Hutton, \emph{Abstraction and instance: {The} type-token relation in
+  linguistic theory}, ser. Language \& communication library.\hskip 1em plus
+  0.5em minus 0.4em\relax Oxford: Pergamon, 1990, vol. V.11.
+
+\bibitem{mukumbang_retroductive_2023}
 \BIBentryALTinterwordspacing
-B.~Biedermann and F.~Gibrel, ``Evaluating {Progress} in {Web3} {Grants}:
-  {Introducing} the {Grant} {Maturity} {Index},'' Oct. 2024, arXiv:2410.19828.
-  [Online]. Available: \url{http://arxiv.org/abs/2410.19828}
+F.~C. Mukumbang, ``\BIBforeignlanguage{en}{Retroductive {Theorizing}: {A}
+  {Contribution} of {Critical} {Realism} to {Mixed} {Methods} {Research}},''
+  \emph{\BIBforeignlanguage{en}{Journal of Mixed Methods Research}}, vol.~17,
+  no.~1, pp. 93--114, Jan. 2023, publisher: SAGE Publications. [Online].
+  Available: \url{https://doi.org/10.1177/15586898211049847}
+\BIBentrySTDinterwordspacing
+
+\bibitem{beck_governance_2018}
+R.~Beck, C.~Mueller-Bloch, and J.~King, ``Governance in the {Blockchain}
+  {Economy}: {A} {Framework} and {Research} {Agenda},'' \emph{Journal of the
+  Association for Information Systems}, vol.~19, pp. 1020--1034, Oct. 2018.
+
+\bibitem{messias_understanding_2024}
+\BIBentryALTinterwordspacing
+J.~Messias, V.~Pahari, B.~Chandrasekaran, K.~P. Gummadi, and P.~Loiseau,
+  ``Understanding {Blockchain} {Governance}: {Analyzing} {Decentralized}
+  {Voting} to {Amend} {DeFi} {Smart} {Contracts},'' Jan. 2024, arXiv:2305.17655
+  [cs]. [Online]. Available: \url{http://arxiv.org/abs/2305.17655}
+\BIBentrySTDinterwordspacing
+
+\bibitem{billett_stockholder_2010}
+\BIBentryALTinterwordspacing
+M.~T. Billett, D.~C. Mauer, and Y.~Zhang, ``\BIBforeignlanguage{en}{Stockholder
+  and {Bondholder} {Wealth} {Effects} of {CEO} {Incentive} {Grants}},''
+  \emph{\BIBforeignlanguage{en}{Financial Management}}, vol.~39, no.~2, pp.
+  463--487, 2010. [Online]. Available:
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-053X.2010.01080.x}
+\BIBentrySTDinterwordspacing
+
+\bibitem{papaioannou_business_2023}
+T.~Papaioannou and G.~Stamoulis, ``A {Business} {Model} for {Multi}-tiered
+  {Decentralized} {Software} {Frameworks}: {The} {Case} of {ONTOCHAIN},'' in
+  \emph{Economics of Grids, Clouds, Systems, and Services}, Mar. 2023, pp.
+  27--40.
+
+\bibitem{uyarra_barriers_2014}
+\BIBentryALTinterwordspacing
+E.~Uyarra, J.~Edler, J.~Garcia-Estevez, L.~Georghiou, and J.~Yeow, ``Barriers
+  to innovation through public procurement: {A} supplier perspective,''
+  \emph{Technovation}, vol.~34, no.~10, pp. 631--645, Oct. 2014. [Online].
+  Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S0166497214000388}
+\BIBentrySTDinterwordspacing
+
+\bibitem{curtin_does_2006}
+\BIBentryALTinterwordspacing
+D.~Curtin and A.~J. Meijer, ``\BIBforeignlanguage{en}{Does transparency
+  strengthen legitimacy?}'' \emph{\BIBforeignlanguage{en}{Information Polity}},
+  vol.~11, no.~2, pp. 109--122, Jan. 2006, publisher: IOS Press. [Online].
+  Available:
+  \url{https://content.iospress.com/articles/information-polity/ip000091}
+\BIBentrySTDinterwordspacing
+
+\bibitem{suddaby_legitimacy_2017}
+R.~Suddaby, A.~Bitektine, and P.~Haack, ``Legitimacy,'' \emph{Academy of
+  Management Annals}, vol.~11, no.~1, pp. 451--478, 2017.
+
+\bibitem{mcbride_sailing_2019}
+\BIBentryALTinterwordspacing
+K.~McBride, ``\BIBforeignlanguage{en}{Sailing {Towards} {Digitalization} {When}
+  {It} {Doesn}'t {Make} {Cents}? {Analysing} the {Faroe} {Islands}' {New}
+  {Digital} {Governance} {Trajectory}},'' \emph{\BIBforeignlanguage{en}{Island
+  Studies Journal}}, vol.~14, no.~2, pp. 193--214, Nov. 2019, publisher:
+  Beewolf Press Limited. [Online]. Available:
+  \url{https://islandstudiesjournal.org/article/84580}
+\BIBentrySTDinterwordspacing
+
+\bibitem{oecd_handbook_2008}
+\BIBentryALTinterwordspacing
+{OECD}, \emph{\BIBforeignlanguage{en}{Handbook on {Constructing} {Composite}
+  {Indicators}: {Methodology} and {User} {Guide}}}.\hskip 1em plus 0.5em minus
+  0.4em\relax Paris: Organisation for Economic Co-operation and Development,
+  2008. [Online]. Available: \url{https://doi.org/10.1787/9789264043466-en}
+\BIBentrySTDinterwordspacing
+
+\bibitem{winters_when_2004}
+\BIBentryALTinterwordspacing
+L.~A. Winters and P.~M.~G. Martins, ``\BIBforeignlanguage{en}{When comparative
+  advantage is not enough: business costs in small remote economies},''
+  \emph{\BIBforeignlanguage{en}{World Trade Review}}, vol.~3, no.~3, pp.
+  347--383, Nov. 2004. [Online]. Available:
+  \url{https://doi.org/10.1017/S1474745604001922}
+\BIBentrySTDinterwordspacing
+
+\bibitem{norman_design_2013}
+D.~A. Norman, \emph{The design of everyday things}, revised and expanded
+  edition~ed.\hskip 1em plus 0.5em minus 0.4em\relax New York, New York: Basic
+  Books, 2013.
+
+\bibitem{ambrose_basics_2010}
+G.~Ambrose and P.~Harris, \emph{\BIBforeignlanguage{en}{Basics {Design} 08:
+  {Design} {Thinking}}}.\hskip 1em plus 0.5em minus 0.4em\relax AVA Publishing,
+  Jan. 2010, google-Books-ID: 9klpFfZDnWgC.
+
+\bibitem{wolniak_design_2017}
+\BIBentryALTinterwordspacing
+R.~Wolniak, ``\BIBforeignlanguage{EN}{The {Design} {Thinking} method and its
+  stages},'' \emph{\BIBforeignlanguage{EN}{Systemy Wspomagania w In{\.z}ynierii
+  Produkcji}}, vol. Vol. 6, iss. 6, 2017. [Online]. Available:
+  \url{http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-81d700a1-e4ea-4257-87cf-d0b790873bc8}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

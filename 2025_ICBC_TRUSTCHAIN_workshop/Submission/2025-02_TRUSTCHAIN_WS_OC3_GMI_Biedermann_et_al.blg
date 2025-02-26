@@ -12,48 +12,48 @@ Database file #2: ieee_icbc_tc_bib.bib
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--missing institution in queensland_audit_office_risk_2023
+Warning--edition ordinal word "Revised and expanded edition" may be too high (or improper) for conversion in norman_design_2013
 
 Done.
-You've used 39 entries,
+You've used 55 entries,
             4024 wiz_defined-function locations,
-            1593 strings with 27396 characters,
-and the built_in function-call counts, 30559 in all, are:
-= -- 2656
-> -- 713
-< -- 231
-+ -- 381
-- -- 130
-* -- 1697
-:= -- 4946
-add.period$ -- 80
-call.type$ -- 39
-change.case$ -- 56
-chr.to.int$ -- 492
-cite$ -- 40
-duplicate$ -- 2142
-empty$ -- 2187
-format.name$ -- 159
-if$ -- 6825
+            1699 strings with 30734 characters,
+and the built_in function-call counts, 42105 in all, are:
+= -- 3656
+> -- 931
+< -- 330
++ -- 502
+- -- 164
+* -- 2321
+:= -- 6786
+add.period$ -- 112
+call.type$ -- 55
+change.case$ -- 74
+chr.to.int$ -- 711
+cite$ -- 56
+duplicate$ -- 2953
+empty$ -- 3100
+format.name$ -- 202
+if$ -- 9449
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 410
-newline$ -- 208
-num.names$ -- 41
-pop$ -- 827
+int.to.str$ -- 55
+missing$ -- 546
+newline$ -- 274
+num.names$ -- 57
+pop$ -- 1103
 preamble$ -- 1
 purify$ -- 0
-quote$ -- 2
-skip$ -- 2291
+quote$ -- 4
+skip$ -- 3186
 stack$ -- 0
-substring$ -- 1243
-swap$ -- 1926
-text.length$ -- 67
+substring$ -- 1762
+swap$ -- 2626
+text.length$ -- 93
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 39
+type$ -- 55
 warning$ -- 1
-while$ -- 127
-width$ -- 41
-write$ -- 517
+while$ -- 179
+width$ -- 57
+write$ -- 699
 (There was 1 warning)

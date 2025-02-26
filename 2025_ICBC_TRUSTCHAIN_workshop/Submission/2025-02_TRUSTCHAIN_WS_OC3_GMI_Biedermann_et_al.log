@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  25 FEB 2025 03:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  26 FEB 2025 05:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,24 +401,24 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
 \openout1 = `2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 -- Lines per column: 56 (exact).
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -443,27 +443,27 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 23.
+Package hyperref Info: Link coloring ON on input line 22.
 
 (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.out)
 (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.out)
 \@outlinefile=\write3
 \openout3 = `2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.out'.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 49.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 48.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 1484) in paragraph at lines 64--66
+Underfull \hbox (badness 1484) in paragraph at lines 63--65
 []\OT1/ptm/b/it/9 Index Terms\OT1/ptm/b/n/9 ---maturity model, Web3 gov-er-nanc
 e, de-cen-
  []
@@ -473,34 +473,262 @@ ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 122--136
-[][]
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 []\OT1/ptm/m/n/8 Governance struc-ture, trans-parency,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 []\OT1/ptm/m/n/8 Transparent, ac-count-able re-port-ing
  []
 
 
-Overfull \hbox (8.15794pt too wide) in paragraph at lines 190--208
-[][]
+Overfull \hbox (8.15794pt too wide) in paragraph at lines 158--175
+ [] 
  []
 
-<suibond.png, id=175, 1564.84625pt x 929.4725pt>
+[4]
+Underfull \hbox (badness 1424) in paragraph at lines 189--190
+\OT1/ptm/m/n/10 Namely, the rubric scores for all anal-ysed Web3 grant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[5]
+Underfull \hbox (badness 2245) in paragraph at lines 238--239
+\OT1/ptm/m/n/10 growth or phi-lan-thropy. The EFI rubric mea-sures how
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Overfull \hbox (5.88045pt too wide) in paragraph at lines 275--275
+[]\OT1/ptm/m/n/8 Developmental| 
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 276--277
+[]\OT1/ptm/m/n/8 Programs have ro-bust and
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 276--277
+\OT1/ptm/m/n/8 trans-par-ent gov-er-nance with
+ []
+
+[6]
+Overfull \hbox (1.02147pt too wide) in paragraph at lines 317--317
+[]\OT1/ptm/b/it/8 FAO| 
+ []
+
+
+Overfull \hbox (0.88554pt too wide) in paragraph at lines 317--317
+[]\OT1/ptm/b/it/8 PSO| 
+ []
+
+
+Overfull \hbox (2.6455pt too wide) in paragraph at lines 317--317
+[]\OT1/ptm/b/it/8 GOV| 
+ []
+
+
+Overfull \hbox (4.22139pt too wide) in paragraph at lines 317--318
+[]\OT1/ptm/b/it/8 COM| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/8 0.6856| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/8 0.0769| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+[]\OT1/ptm/m/n/8 0.5455| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--320
+[]\OT1/ptm/m/n/8 0.2207| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/8 0.9184| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/8 0.9932| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
+[]\OT1/ptm/m/n/8 0.5455| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--321
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
+[]\OT1/ptm/m/n/8 0.1987| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
+[]\OT1/ptm/m/n/8 0.9892| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
+[]\OT1/ptm/m/n/8 0.9932| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
+[]\OT1/ptm/m/n/8 0.6923| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
+[]\OT1/ptm/m/n/8 0.9091| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--322
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.1477| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.6494| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.4694| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.6154| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--323
+[]\OT1/ptm/m/n/8 0.3834| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.7347| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--324
+[]\OT1/ptm/m/n/8 0.2040| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 0.2210| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--325
+[]\OT1/ptm/m/n/8 0.4419| 
+ []
+
+[7]
+<suibond.png, id=306, 1564.84625pt x 929.4725pt>
 File: suibond.png Graphic file (type png)
 <use suibond.png>
-Package pdftex.def Info: suibond.png  used on input line 236.
+Package pdftex.def Info: suibond.png  used on input line 392.
 (pdftex.def)             Requested size: 156.49379pt x 92.95268pt.
-(./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
+ (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -568,7 +796,10 @@ cument / u / 1 / d /
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
-[6 <./suibond.png>]
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+[8 <./suibond.png>]
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -607,6 +838,45 @@ cument / u / 1 / d /
 ** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `EN'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `EN'. Using the pattern for
 ** the default language instead.
 )
 
@@ -620,36 +890,43 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[7
-
-] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
+[9] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_
 al.out' has not changed.
-(rerunfilecheck)             Checksum: 68F653CDA6C6987627752F287B8E6E52;1308.
+(rerunfilecheck)             Checksum: 177824C223B4CD4FB4A8026A52B1003E;4352.
  ) 
 Here is how much of TeX's memory you used:
- 11225 strings out of 474143
- 175611 string characters out of 5744766
- 1962187 words of memory out of 5000000
- 33355 multiletter control sequences out of 15000+600000
+ 11315 strings out of 474143
+ 177197 string characters out of 5744766
+ 1960187 words of memory out of 5000000
+ 33410 multiletter control sequences out of 15000+600000
  604906 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1892b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/20
-23/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-d
-ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (7 pages, 
-408442 bytes).
+ 75i,11n,79p,1512b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8
+.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/
+texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (9 pages, 
+508164 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 473 PDF objects out of 1000 (max. 8388607)
+ 419 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
