@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  26 FEB 2025 05:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  26 FEB 2025 22:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -473,33 +473,33 @@ ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
 ] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 []\OT1/ptm/m/n/8 Governance struc-ture, trans-parency,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 []\OT1/ptm/m/n/8 Transparent, ac-count-able re-port-ing
  []
 
 
-Overfull \hbox (8.15794pt too wide) in paragraph at lines 158--175
- [] 
+Overfull \hbox (8.15794pt too wide) in paragraph at lines 159--178
+ [][] 
  []
 
 [4]
-Underfull \hbox (badness 1424) in paragraph at lines 189--190
-\OT1/ptm/m/n/10 Namely, the rubric scores for all anal-ysed Web3 grant
+Underfull \hbox (badness 3557) in paragraph at lines 186--187
+\OT1/ptm/m/n/10 to en-sure com-pa-ra-bil-ity across vari-ables and con-struct
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
 [5]
-Underfull \hbox (badness 2245) in paragraph at lines 238--239
-\OT1/ptm/m/n/10 growth or phi-lan-thropy. The EFI rubric mea-sures how
+Underfull \hbox (badness 3229) in paragraph at lines 238--239
+\OT1/ptm/m/n/10 ma-tu-rity score. Each rubric cat-e-gory in-cludes mul-ti-ple
  []
 
 
@@ -508,208 +508,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--239
  []
 
 
-Overfull \hbox (5.88045pt too wide) in paragraph at lines 275--275
+Overfull \hbox (5.88045pt too wide) in paragraph at lines 276--276
 []\OT1/ptm/m/n/8 Developmental| 
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 276--277
+Underfull \hbox (badness 6268) in paragraph at lines 277--278
 []\OT1/ptm/m/n/8 Programs have ro-bust and
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 276--277
+Underfull \hbox (badness 3148) in paragraph at lines 277--278
 \OT1/ptm/m/n/8 trans-par-ent gov-er-nance with
  []
 
 [6]
-Overfull \hbox (1.02147pt too wide) in paragraph at lines 317--317
+Overfull \hbox (1.02147pt too wide) in paragraph at lines 319--319
 []\OT1/ptm/b/it/8 FAO| 
  []
 
 
-Overfull \hbox (0.88554pt too wide) in paragraph at lines 317--317
+Overfull \hbox (0.88554pt too wide) in paragraph at lines 319--319
 []\OT1/ptm/b/it/8 PSO| 
  []
 
 
-Overfull \hbox (2.6455pt too wide) in paragraph at lines 317--317
+Overfull \hbox (2.6455pt too wide) in paragraph at lines 319--319
 []\OT1/ptm/b/it/8 GOV| 
  []
 
 
-Overfull \hbox (4.22139pt too wide) in paragraph at lines 317--318
+Overfull \hbox (4.22139pt too wide) in paragraph at lines 319--320
 []\OT1/ptm/b/it/8 COM| 
  []
 
 
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
 []\OT1/ptm/m/n/8 0.6856| 
  []
 
 
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
 []\OT1/ptm/m/n/8 1.0000| 
  []
 
 
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
 []\OT1/ptm/m/n/8 1.0000| 
  []
 
 
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
 []\OT1/ptm/m/n/8 0.0769| 
  []
 
 
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--319
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
 []\OT1/ptm/m/n/8 0.5455| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 319--320
-[]\OT1/ptm/m/n/8 0.2207| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
-[]\OT1/ptm/m/n/8 1.0000| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
-[]\OT1/ptm/m/n/8 0.9184| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
-[]\OT1/ptm/m/n/8 0.9932| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
-[]\OT1/ptm/m/n/8 0.0000| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--320
-[]\OT1/ptm/m/n/8 0.5455| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 320--321
-[]\OT1/ptm/m/n/8 0.0000| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
-[]\OT1/ptm/m/n/8 0.1987| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
-[]\OT1/ptm/m/n/8 0.9892| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
-[]\OT1/ptm/m/n/8 0.9932| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
-[]\OT1/ptm/m/n/8 0.6923| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--321
-[]\OT1/ptm/m/n/8 0.9091| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 321--322
+[]\OT1/ptm/m/n/8 0.2207| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
 []\OT1/ptm/m/n/8 1.0000| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
-[]\OT1/ptm/m/n/8 0.1477| 
+[]\OT1/ptm/m/n/8 0.9184| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
-[]\OT1/ptm/m/n/8 0.6494| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
-[]\OT1/ptm/m/n/8 0.4694| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
-[]\OT1/ptm/m/n/8 0.6154| 
+[]\OT1/ptm/m/n/8 0.9932| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
 []\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--322
+[]\OT1/ptm/m/n/8 0.5455| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 322--323
-[]\OT1/ptm/m/n/8 0.3834| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
 []\OT1/ptm/m/n/8 0.0000| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
-[]\OT1/ptm/m/n/8 0.7347| 
+[]\OT1/ptm/m/n/8 0.1987| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
-[]\OT1/ptm/m/n/8 0.0000| 
+[]\OT1/ptm/m/n/8 0.9892| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
-[]\OT1/ptm/m/n/8 0.0000| 
+[]\OT1/ptm/m/n/8 0.9932| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
-[]\OT1/ptm/m/n/8 0.0000| 
+[]\OT1/ptm/m/n/8 0.6923| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--323
+[]\OT1/ptm/m/n/8 0.9091| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 323--324
-[]\OT1/ptm/m/n/8 0.2040| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
-[]\OT1/ptm/m/n/8 0.2210| 
- []
-
-
-Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
 []\OT1/ptm/m/n/8 1.0000| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
-[]\OT1/ptm/m/n/8 0.0000| 
+[]\OT1/ptm/m/n/8 0.1477| 
  []
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
-[]\OT1/ptm/m/n/8 1.0000| 
+[]\OT1/ptm/m/n/8 0.6494| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 0.4694| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
+[]\OT1/ptm/m/n/8 0.6154| 
  []
 
 
@@ -719,14 +659,74 @@ Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--324
 
 
 Overfull \hbox (7.77364pt too wide) in paragraph at lines 324--325
+[]\OT1/ptm/m/n/8 0.3834| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--325
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--325
+[]\OT1/ptm/m/n/8 0.7347| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--325
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--325
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--325
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 325--326
+[]\OT1/ptm/m/n/8 0.2040| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--326
+[]\OT1/ptm/m/n/8 0.2210| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--326
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--326
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--326
+[]\OT1/ptm/m/n/8 1.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--326
+[]\OT1/ptm/m/n/8 0.0000| 
+ []
+
+
+Overfull \hbox (7.77364pt too wide) in paragraph at lines 326--327
 []\OT1/ptm/m/n/8 0.4419| 
  []
 
 [7]
-<suibond.png, id=306, 1564.84625pt x 929.4725pt>
+<suibond.png, id=332, 1564.84625pt x 929.4725pt>
 File: suibond.png Graphic file (type png)
 <use suibond.png>
-Package pdftex.def Info: suibond.png  used on input line 392.
+Package pdftex.def Info: suibond.png  used on input line 371.
 (pdftex.def)             Requested size: 156.49379pt x 92.95268pt.
  (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.bbl
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
@@ -771,6 +771,7 @@ Package pdftex.def Info: suibond.png  used on input line 392.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
+[8 <./suibond.png>]
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `eng'. Using the pattern for
 ** the default language instead.
@@ -799,16 +800,6 @@ cument / u / 1 / d /
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
-[8 <./suibond.png>]
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
-** WARNING: IEEEtran.bst: No hyphenation pattern has been
-** loaded for the language `en'. Using the pattern for
-** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `en'. Using the pattern for
 ** the default language instead.
@@ -877,6 +868,55 @@ cument / u / 1 / d /
 ** the default language instead.
 ** WARNING: IEEEtran.bst: No hyphenation pattern has been
 ** loaded for the language `EN'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+[9]
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en-US'. Using the pattern for
+** the default language instead.
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--498
+\OT1/ptm/m/n/8 forschung . hs-[]mittweida . de / index . php ? eID = tx[]nawsec
+uredl & u = 0 & g = 0 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--498
+\OT1/ptm/m/n/8 t = 1740665461 & hash = 2928bcad75e4419c286459737e5130403f22f5be
+ &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--498
+\OT1/ptm/m/n/8 ^^Lle = ^^Lleadmin / verzeichnisfreigaben / forschng / dokumente
+ / Scienti^^Lc[]
+ []
+
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtran.bst: No hyphenation pattern has been
+** loaded for the language `en'. Using the pattern for
 ** the default language instead.
 )
 
@@ -890,7 +930,9 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[9] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
+[10
+
+] (./2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -900,33 +942,35 @@ al.out' has not changed.
 (rerunfilecheck)             Checksum: 177824C223B4CD4FB4A8026A52B1003E;4352.
  ) 
 Here is how much of TeX's memory you used:
- 11315 strings out of 474143
- 177197 string characters out of 5744766
- 1960187 words of memory out of 5000000
- 33410 multiletter control sequences out of 15000+600000
- 604906 words of font info for 131 fonts, out of 8000000 for 9000
+ 11340 strings out of 474143
+ 177860 string characters out of 5744766
+ 1965187 words of memory out of 5000000
+ 33422 multiletter control sequences out of 15000+600000
+ 605984 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1512b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pf
-b></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
-exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/
-texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2023/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (9 pages, 
-508164 bytes).
+ 75i,11n,79p,1533b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.
+pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
+cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texm
+f-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2023/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on 2025-02_TRUSTCHAIN_WS_OC3_GMI_Biedermann_et_al.pdf (10 pages,
+ 531140 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 419 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
+ 110 named destinations out of 1000 (max. 500000)
  182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

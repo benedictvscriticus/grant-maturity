@@ -15,45 +15,45 @@ Database file #2: ieee_icbc_tc_bib.bib
 Warning--edition ordinal word "Revised and expanded edition" may be too high (or improper) for conversion in norman_design_2013
 
 Done.
-You've used 55 entries,
+You've used 67 entries,
             4024 wiz_defined-function locations,
-            1699 strings with 30734 characters,
-and the built_in function-call counts, 42105 in all, are:
-= -- 3656
-> -- 931
-< -- 330
-+ -- 502
-- -- 164
-* -- 2321
-:= -- 6786
-add.period$ -- 112
-call.type$ -- 55
-change.case$ -- 74
-chr.to.int$ -- 711
-cite$ -- 56
-duplicate$ -- 2953
-empty$ -- 3100
-format.name$ -- 202
-if$ -- 9449
+            1764 strings with 33137 characters,
+and the built_in function-call counts, 47705 in all, are:
+= -- 4125
+> -- 1008
+< -- 344
++ -- 540
+- -- 180
+* -- 2592
+:= -- 7812
+add.period$ -- 137
+call.type$ -- 67
+change.case$ -- 93
+chr.to.int$ -- 744
+cite$ -- 68
+duplicate$ -- 3392
+empty$ -- 3608
+format.name$ -- 220
+if$ -- 10649
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 546
-newline$ -- 274
-num.names$ -- 57
-pop$ -- 1103
+int.to.str$ -- 67
+missing$ -- 639
+newline$ -- 334
+num.names$ -- 71
+pop$ -- 1353
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 4
-skip$ -- 3186
+skip$ -- 3596
 stack$ -- 0
-substring$ -- 1762
-swap$ -- 2626
-text.length$ -- 93
+substring$ -- 1860
+swap$ -- 2933
+text.length$ -- 96
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 55
+type$ -- 67
 warning$ -- 1
-while$ -- 179
-width$ -- 57
-write$ -- 699
+while$ -- 200
+width$ -- 69
+write$ -- 830
 (There was 1 warning)

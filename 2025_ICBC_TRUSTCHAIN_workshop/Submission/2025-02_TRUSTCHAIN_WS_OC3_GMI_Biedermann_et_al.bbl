@@ -369,20 +369,12 @@ J.~Messias, V.~Pahari, B.~Chandrasekaran, K.~P. Gummadi, and P.~Loiseau,
   [cs]. [Online]. Available: \url{http://arxiv.org/abs/2305.17655}
 \BIBentrySTDinterwordspacing
 
-\bibitem{billett_stockholder_2010}
+\bibitem{coinnarketcap_cryptocurrency_2024}
 \BIBentryALTinterwordspacing
-M.~T. Billett, D.~C. Mauer, and Y.~Zhang, ``\BIBforeignlanguage{en}{Stockholder
-  and {Bondholder} {Wealth} {Effects} of {CEO} {Incentive} {Grants}},''
-  \emph{\BIBforeignlanguage{en}{Financial Management}}, vol.~39, no.~2, pp.
-  463--487, 2010. [Online]. Available:
-  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-053X.2010.01080.x}
+{Coinnarketcap}, ``\BIBforeignlanguage{en}{Cryptocurrency {Prices}, {Charts}
+  {And} {Market} {Capitalizations}},'' Sep. 2024. [Online]. Available:
+  \url{https://coinmarketcap.com/}
 \BIBentrySTDinterwordspacing
-
-\bibitem{papaioannou_business_2023}
-T.~Papaioannou and G.~Stamoulis, ``A {Business} {Model} for {Multi}-tiered
-  {Decentralized} {Software} {Frameworks}: {The} {Case} of {ONTOCHAIN},'' in
-  \emph{Economics of Grids, Clouds, Systems, and Services}, Mar. 2023, pp.
-  27--40.
 
 \bibitem{uyarra_barriers_2014}
 \BIBentryALTinterwordspacing
@@ -392,19 +384,6 @@ E.~Uyarra, J.~Edler, J.~Garcia-Estevez, L.~Georghiou, and J.~Yeow, ``Barriers
   Available:
   \url{https://www.sciencedirect.com/science/article/pii/S0166497214000388}
 \BIBentrySTDinterwordspacing
-
-\bibitem{curtin_does_2006}
-\BIBentryALTinterwordspacing
-D.~Curtin and A.~J. Meijer, ``\BIBforeignlanguage{en}{Does transparency
-  strengthen legitimacy?}'' \emph{\BIBforeignlanguage{en}{Information Polity}},
-  vol.~11, no.~2, pp. 109--122, Jan. 2006, publisher: IOS Press. [Online].
-  Available:
-  \url{https://content.iospress.com/articles/information-polity/ip000091}
-\BIBentrySTDinterwordspacing
-
-\bibitem{suddaby_legitimacy_2017}
-R.~Suddaby, A.~Bitektine, and P.~Haack, ``Legitimacy,'' \emph{Academy of
-  Management Annals}, vol.~11, no.~1, pp. 451--478, 2017.
 
 \bibitem{mcbride_sailing_2019}
 \BIBentryALTinterwordspacing
@@ -450,5 +429,117 @@ R.~Wolniak, ``\BIBforeignlanguage{EN}{The {Design} {Thinking} method and its
   Produkcji}}, vol. Vol. 6, iss. 6, 2017. [Online]. Available:
   \url{http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-81d700a1-e4ea-4257-87cf-d0b790873bc8}
 \BIBentrySTDinterwordspacing
+
+\bibitem{tnorm_arbitrums_2023}
+\BIBentryALTinterwordspacing
+{tnorm}, ``\BIBforeignlanguage{en}{Arbitrum's {Short}-{Term} {Incentive}
+  {Program} ({Arbitrum} {Improvement} {Proposal})},'' Sep. 2023, section:
+  Proposals. [Online]. Available:
+  \url{https://forum.arbitrum.foundation/t/16131}
+\BIBentrySTDinterwordspacing
+
+\bibitem{arbitrum_dao_arbitrum_2023}
+\BIBentryALTinterwordspacing
+{Arbitrum DAO}, ``Arbitrum {Short}-term incentive {Program},'' Sep. 2023.
+  [Online]. Available:
+  \url{https://snapshot.box/#/s:arbitrumfoundation.eth/proposals/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{frisson_arbitrum_2023}
+\BIBentryALTinterwordspacing
+{Frisson}, ``Arbitrum {Proposal} to {Backfund} {Successful} {STIP}
+  {Proposals},'' Nov. 2023. [Online]. Available:
+  \url{https://www.tally.xyz/gov/arbitrum/proposals}
+\BIBentrySTDinterwordspacing
+
+\bibitem{lumley_stip-bridge_2024}
+\BIBentryALTinterwordspacing
+A.~Lumley, ``\BIBforeignlanguage{en}{{STIP}-{Bridge} {Operational} {Budget} -
+  {Proposals}},'' Aug. 2024, section: Proposals. [Online]. Available:
+  \url{https://forum.arbitrum.foundation/t/stip-bridge-operational-budget/26489}
+\BIBentrySTDinterwordspacing
+
+\bibitem{arbitrum_dao_double-down_2024}
+\BIBentryALTinterwordspacing
+{Seed Gov}, ``Double-{Down} on {STIP} {Successes} ({STIP}-{Bridge}),'' Mar.
+  2024. [Online]. Available:
+  \url{https://snapshot.box/#/s:arbitrumfoundation.eth/proposals/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{stein_arbitrum_2024}
+\BIBentryALTinterwordspacing
+M.~Stein, ``Arbitrum {Long} {Term} {Incentives} {Pilot} {Program} {Proposal},''
+  Jan. 2024. [Online]. Available:
+  \url{https://forum.arbitrum.foundation/t/long-term-incentives-pilot-program/20223/49}
+\BIBentrySTDinterwordspacing
+
+\bibitem{bitdao_passed_2023}
+\BIBentryALTinterwordspacing
+{BitDAO}, ``\BIBforeignlanguage{en}{[{PASSED}] {MIP}-24: {Mantle} {EcoFund}},''
+  Feb. 2023, section: [Curated Archive] Mantle Ecosystem. [Online]. Available:
+  \url{https://forum.mantle.xyz/t/passed-mip-24-mantle-ecofund/4692}
+\BIBentrySTDinterwordspacing
+
+\bibitem{the_optimism_collective_what_2024}
+\BIBentryALTinterwordspacing
+{The Optimism Collective}, ``\BIBforeignlanguage{en-US}{What is the {Optimism}
+  {Collective}? {Get} a {Grant}},'' Jul. 2024. [Online]. Available:
+  \url{https://community.optimism.io/docs/governance/get-a-grant.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{marz_airdrops_2024}
+\BIBentryALTinterwordspacing
+M.~Marz, ``Airdrops as a governance tool for {DAOs}? {An} empirical analysis of
+  voting participation,'' \emph{Scientific Reports}, vol.~4, pp. 1--8, 2024,
+  place: Mittweida, Deutschland Publisher: Hochschule Mittweida. [Online].
+  Available:
+  \url{https://www.forschung.hs-mittweida.de/index.php?eID=tx_nawsecuredl&u=0&g=0&t=1740665461&hash=2928bcad75e4419c286459737e5130403f22f5be&file=fileadmin/verzeichnisfreigaben/forschng/dokumente/Scientific_Reports/Scientific_Reports_2024/SC_Reports_2024_04_BAS.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{billett_stockholder_2010}
+\BIBentryALTinterwordspacing
+M.~T. Billett, D.~C. Mauer, and Y.~Zhang, ``\BIBforeignlanguage{en}{Stockholder
+  and {Bondholder} {Wealth} {Effects} of {CEO} {Incentive} {Grants}},''
+  \emph{\BIBforeignlanguage{en}{Financial Management}}, vol.~39, no.~2, pp.
+  463--487, 2010. [Online]. Available:
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1755-053X.2010.01080.x}
+\BIBentrySTDinterwordspacing
+
+\bibitem{papaioannou_business_2023}
+T.~Papaioannou and G.~Stamoulis, ``A {Business} {Model} for {Multi}-tiered
+  {Decentralized} {Software} {Frameworks}: {The} {Case} of {ONTOCHAIN},'' in
+  \emph{Economics of Grids, Clouds, Systems, and Services}, Mar. 2023, pp.
+  27--40.
+
+\bibitem{baranski_trust-centric_2024}
+\BIBentryALTinterwordspacing
+S.~Bara{\'n}ski, B.~Biedermann, and J.~Ellul, ``A {Trust}-{Centric} {Approach}
+  {To} {Quantifying} {Maturity} and {Security} in {Internet} {Voting}
+  {Protocols},'' Dec. 2024, arXiv:2412.10611 [cs] version: 1. [Online].
+  Available: \url{http://arxiv.org/abs/2412.10611}
+\BIBentrySTDinterwordspacing
+
+\bibitem{lin_voting_2023}
+\BIBentryALTinterwordspacing
+T.~Lin and H.~Pham, ``\BIBforeignlanguage{en}{Voting {Systems} with
+  {Supervising} {Mechanisms}},'' in \emph{\BIBforeignlanguage{en}{Applications
+  in {Reliability} and {Statistical} {Computing}}}, H.~Pham, Ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Cham: Springer International Publishing, 2023, pp.
+  97--115. [Online]. Available:
+  \url{https://doi.org/10.1007/978-3-031-21232-1_5}
+\BIBentrySTDinterwordspacing
+
+\bibitem{curtin_does_2006}
+\BIBentryALTinterwordspacing
+D.~Curtin and A.~J. Meijer, ``\BIBforeignlanguage{en}{Does transparency
+  strengthen legitimacy?}'' \emph{\BIBforeignlanguage{en}{Information Polity}},
+  vol.~11, no.~2, pp. 109--122, Jan. 2006, publisher: IOS Press. [Online].
+  Available:
+  \url{https://content.iospress.com/articles/information-polity/ip000091}
+\BIBentrySTDinterwordspacing
+
+\bibitem{suddaby_legitimacy_2017}
+R.~Suddaby, A.~Bitektine, and P.~Haack, ``Legitimacy,'' \emph{Academy of
+  Management Annals}, vol.~11, no.~1, pp. 451--478, 2017.
 
 \end{thebibliography}
