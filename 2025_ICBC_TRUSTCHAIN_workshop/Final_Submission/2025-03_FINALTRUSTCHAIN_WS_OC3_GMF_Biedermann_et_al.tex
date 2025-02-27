@@ -21,8 +21,8 @@
 
 \begin{document}
 
-\title{Evaluating Progress in Web3 Grants: Introducing the Grant Maturity Index.
-\thanks{This work is has been funded by the EU in the framework of the NGI TRUSTCHAIN project under the European Commission HORIZON-CL4-2022-HUMAN-01-03 grant: \href{https://cordis.europa.eu/project/id/101093274}{101093274} and by \href{https://ens.domains/}{ENS Domains} through its \textit{Large Grants} program.}
+\title{Crypto-Economic Analysis of Web3 Funding Programs Using the Grant Maturity Framework
+\thanks{This work is has been funded by the EU in the framework of the NGI TRUSTCHAIN project under the European Commission HORIZON-CL4-2022-HUMAN-01-03 grant: \href{https://cordis.europa.eu/project/id/101093274}{101093274} and \href{https://ens.domains/}{ENS Domains} through its \textit{Large Grants} program.}
 }
 \author{\IEEEauthorblockN{1\textsuperscript{st} Ben Biedermann}
 \IEEEauthorblockA{\textit{Islands and Small States Institute} \\
@@ -47,21 +47,11 @@ Frankfurt (Oder), Germany \\
 \maketitle
 
 \begin{abstract}
-This report introduces the Grant Maturity Framework (GMF), a novel evaluative framework designed to assess the maturity and operational effectiveness of Web3 grant programs. As Web3 continues to develop, the decentralised nature of these programs brings both opportunities and challenges, particularly when it comes to governance, transparency, and community engagement. Traditional funding models are often governed by standardised processes, but Web3 grants lack such consistency, making it difficult for grant operators to measure the long-term success of their programs.
-
-The \textit{Grant Maturity Framework (GMF)} was created through \textit{exploratory applied research} to address this gap. Inspired by the World Bank’s GovTech Maturity Index (GTMI), the GMF is tailored specifically for the decentralised Web3 ecosystem. The GMF evaluates key dimensions of grant programs—governance, transparency, operational efficiency, and community engagement -- providing grant operators with a clear benchmark for assessing and improving their programs.
-
-The primary objectives of this research are to:
-\begin{itemize}
-    \item Identify the structural indicators that adequately describe Web3 grant programs.
-    \item Describe optimal outcomes for programs by evaluating their maturity across key operational areas.
-\end{itemize}
-
-In this report, the GMF is applied to four major Ethereum Layer 2 grant programs -- \textit{Arbitrum}, \textit{Mantle}, \textit{Taiko Labs}, and \textit{Optimism}. These case studies highlight areas where Web3 grant programs require improvement, particularly in \textit{standardizing processes}, enhancing \textit{transparency}, and increasing \textit{community participation}.
+Web3 grant programs are evolving mechanisms aimed at supporting innovation within the blockchain ecosystem, yet little is known on about their effectiveness. This paper proposes the concept of \textit{maturity} to fill this gap and introduces the Grant Maturity Framework (GMF), a mixed-methods model for evaluating the maturity of Web3 grant programs. The GMF provides a systematic approach to assessing the structure, governance, and impact of Web3 grants, applied here to four prominent Ethereum layer-two (L2) grant programs: Arbitrum, Optimism, Mantle, and Taiko. By evaluating these programs using the GMF, the study categorises them into four maturity stages, ranging from experimental to advanced. The findings reveal that Arbitrum's Long-Term Incentive Pilot Program (LTIPP) and Optimism's Mission Rounds show higher maturity, while Mantle and Taiko are still in their early stages. The research concludes by discussing the user-centric development of a Web3 grant management platform aimed at improving the maturity and effectiveness of Web3 grant management processes based on the findings from the GMF. This work contributes to both practical and theoretical knowledge on Web3 grant program evaluation and tooling, providing a valuable resource for Web3 grant operators and stakeholders.
 \end{abstract}
 
 \begin{IEEEkeywords}
-maturity model, Web3 governance, decentralised autonomous organisations, crypto-economic systems, mixed-methods
+maturity model, Web3 governance, decentralised autonomous organisations (DAOs), crypto-economic systems, mixed-methods
 \end{IEEEkeywords}
 
 \section{Introduction}\label{sec_1}
@@ -79,7 +69,7 @@ To that end, this research proposes the grant maturity framework (GMF), which ai
 \item Which lessons can be learned for the technical design of Web3 grant platforms?
 \end{enumerate}
 
-The first research question aims at providing overview of the objectives, processes, and organisational structures that underpin Web3 grant programs. For responding to the second question, the maturity framework is applied to four concrete Web3 grant programs for assessing their maturity. Towards answering the third research question, this paper analyses the outcomes of implementing the results from the GMF within the scope of an EU next generation internet (NGI) project that develops a grant funding platform according to the principles of a user-centric approach (UCA). This research problem is addressed by using mixed-methods for comparing the grant programs of four popular Ethereum layer-two (L2) ecosystems that have a token. Accordingly, the maturity is assed of the grant programs run by Optimism, Arbitrum, Mantle (formerly known as BitDAO), and Taiko. The GMF analyses the effectivity of organisational measures towards improving Web3 grant program operations and outcomes through round-over-round indicators and expert assessments. As a result, the GMF serves as a toolkit for Web3 grant operators, program principals, and stakeholders for tracking the effects of Web3 grant programs and translating learnings into actionable insights for the development of grant funding platforms.
+The first research question aims at providing overview of the objectives, processes, and organisational structures that underpin Web3 grant programs. For responding to the second question, the maturity framework is applied to four concrete Web3 grant programs for assessing their maturity. Towards answering the third research question, this paper analyses the outcomes of implementing the results from the GMF within the scope of  AUTHBOND, an EU next generation internet (NGI) TRUSTCHAIN project that develops a grant funding platform according to the principles of a user-centric approach (UCA). This research problem is addressed by using mixed-methods for comparing the grant programs of four popular Ethereum layer-two (L2) ecosystems that have a token. Accordingly, the maturity is assed of the grant programs run by Optimism, Arbitrum, Mantle (formerly known as BitDAO), and Taiko. The GMF analyses the effectivity of organisational measures towards improving Web3 grant program operations and outcomes through round-over-round indicators and expert assessments. As a result, the GMF serves as a toolkit for Web3 grant operators, program principals, and stakeholders for tracking the effects of Web3 grant programs and translating learnings into actionable insights for the development of grant funding platforms.
 
 \section{Background}\label{sec_2}
 
@@ -225,7 +215,7 @@ Although this research is exploratory, it is important to consider its construct
 
 \subsection{Use Case-Driven Stakeholder Feedback}\label{sec_3.3}
 
-After the GMF for the four Web3 grants programs was calculated, a the research team developed prototype for Web3 grants management platform to test the findings following a user-centric design approach. The GMF and rubric maturity scores, as well as the qualitative data defined baseline functionalities that would benefit the maturity of Web3 grant programs evaluated in the GMF, for example the availability of \textit{bid bonds}. Thereafter, the feature set was iteratively refined based on direct stakeholder feedback. The methodology of the software development phase was grounded in qualitative user research, incorporating semi-structured user interviews and participatory workshops with Web3 grant funders and applicants. A qualitative approach was chosen over a quantitative data collection method, as it allows for a deeper exploration of users' underlying emotions, perceptions, and motivations. This enabled studying people in depth, as suggested by~\cite{norman_design_2013}, helping not only to understand what users expect from a Web3 grant management platform but also to uncover why and how they believe those expectations of maturity can be best met based on their experience and expertise.
+After the GMF for the four Web3 grants programs was calculated, the research team developed prototype for Web3 grants management platform to test the findings following a user-centric design approach. The GMF and rubric maturity scores, as well as the qualitative data defined baseline functionalities that would benefit the maturity of Web3 grant programs evaluated in the GMF, for example the availability of \textit{bid bonds}. Thereafter, the feature set was iteratively refined based on direct stakeholder feedback. The methodology of the software development phase was grounded in qualitative user research, incorporating semi-structured user interviews and participatory workshops with Web3 grant funders and applicants. A qualitative approach was chosen over a quantitative data collection method, as it allows for a deeper exploration of users' underlying emotions, perceptions, and motivations. This enabled studying people in depth, as suggested by~\cite{norman_design_2013}, helping not only to understand what users expect from a Web3 grant management platform but also to uncover why and how they believe those expectations of maturity can be best met based on their experience and expertise.
 
 The Design Thinking framework was an important component of this development process, following five iterative stages: empathising with users, defining their needs, ideating solutions, prototyping, and testing~\cite{ambrose_basics_2010,wolniak_design_2017}. Early user testing focused on low-fidelity wireframes demonstrating the creation of grant programs and application submission processes. Continuous engagement with the target audience in validation environments continued at a Web3 hacker house, where the first clickable prototype was developed, as well as through design thinking workshops, where the researchers engaged with Web3 program operators and applicants in person.
 
@@ -235,30 +225,7 @@ This section presents the results of the analysis conducted on popular Web3 gran
 
 \subsection{Measuring Web3 Grant Program Maturity}\label{sec_4.1}
 
-The structure and outcomes of Web3 grant programs can be measured using 40 indicators across the six rubric categories in Table~\ref{tab:grant_rubric}, which form the composite GMF maturity score. Each rubric category includes multiple indicators that evaluate aspects of the program, such as grant size, evaluation criteria, organisational structure, governance mechanisms, and community involvement. The indicators in the FAO rubric assess grant types, funding methods, and evaluation timeframes, among other factors. The PSO rubric evaluates the organisational structure of the grantor and the allocation of funds. The GOV rubric includes data points on the program's mission and vision documents and its alignment with objectives like network growth or philanthropy. The EFI rubric measures how effectively the program achieves its stated goals, while the TAC rubric focuses on transparency and accountability in decision-making processes. Finally, the COM rubric looks at the level of community engagement, including the applicant count, average grant size, and program management team size. More concretely, the rubrics included in the GMF cover the following areas:\\
-
-\footnotesize
-\begin{itemize}
-    \item \textbf{FAO} evaluates the goals and types of grants offered
-        \subitem Grant size in total, minimum, and maximum
-        \subitem Evaluation timeframe
-        \subitem Funding types, \textit{e.g.} lump sum or milestone-based
-    \item \textbf{PSO} assesses organisational and funding structures
-        \subitem Origin of funds, \textit{e.g.} token launch, donors
-        \subitem Fund allocation and governance structures
-    \item \textbf{GOV} examines alignment between objectives and governance
-        \subitem Documentation
-        \subitem Alignment with program objectives
-    \item \textbf{EFI} measures success in goal attainment
-        \subitem Evaluation criteria and reporting
-        \subitem Domicile of associated legal entities
-    \item \textbf{TAC} evaluates transparency and accountability mechanisms
-        \subitem Grant accessibility and accountability
-    \item \textbf{COM} assesses community involvement
-        \subitem Applicant count and grants allocated per round
-        \subitem Community engagement in governance
-\end{itemize}\vspace{7pt}
-\normalsize
+The structure and outcomes of Web3 grant programs can be measured using 40 indicators across the six rubric categories in Table~\ref{tab:grant_rubric}, which form the composite GMF maturity score. Each rubric category includes multiple indicators that evaluate aspects of the program, such as grant size, evaluation criteria, organisational structure, governance mechanisms, and community involvement. The indicators in the FAO rubric assess grant types, funding methods, and evaluation timeframes, among other factors. The PSO rubric evaluates the organisational structure of the grantor and the allocation of funds. The GOV rubric includes data points on the program's mission and vision documents and its alignment with objectives like network growth or philanthropy. The EFI rubric measures how effectively the program achieves its stated goals, while the TAC rubric focuses on transparency and accountability in decision-making processes. Finally, the COM rubric looks at the level of community engagement, including the applicant count, average grant size, and program management team size.
 
 By examining these rubrics and their respective indicators, the GMF allows for a structured and comprehensive assessment of Web3 grant programs. In aggregate these indicators offer insights into the maturity of each program by informing the quantitative categorisation of Web3 grant programs into stages of maturity, which were refined through the Delphi study. The quantitative measurement was introduced inductively after comparing the aggregate scores of a preliminary version of the GMF for the grant programs with the appraisal comments given by expert reviewers. This led to a refined and final version of the GMF, as well as revising the grant maturity levels from Table~\ref{tab:grant_maturity} by introducing a naive quartile-based stratification of grant programs according to their maturity and condensing the definition of the Web3 grant maturity stages. The updated Web3 grant maturity scale is displayed in Table~\ref{tab:revised_maturity_stages}.
 
@@ -283,7 +250,7 @@ Advanced & \( 0.75 \leq GMF \leq 1.0 \) & Programs have robust and transparent g
 
 \subsection{Maturity Levels of Popular Web3 Grant Programs}\label{sec_4.2}
 
-Based on the selection of the four most relevant Web3 grant programs, the GMF contains six observations because Arbitrum as one of the largest grant programs already differentiated between multiple tracks. These three ARB sub-programs were in place concurrently and too different in scope and nature to be included as one. Thus, the final set of assessed Web3 grant programs is the Arbitrum Short Term Incentive Program (STIP)~\cite{tnorm_arbitrums_2023,arbitrum_dao_arbitrum_2023} including its capital increase called \textit{Backfund}~\cite{frisson_arbitrum_2023}, the continuation of Arbitrum STIP referred to as \textit{Bridge}~\cite{lumley_stip-bridge_2024,arbitrum_dao_double-down_2024}, the Arbitrum Long-Term Incentive Pilot Program (LTIPP)~\cite{stein_arbitrum_2024}, the Mantle Grants Program~\cite{bitdao_passed_2023}, the Optimism Mission Round Program including rounds 3 and 4~\cite{the_optimism_collective_what_2024}, and Taiko's Incentivisation Grant Program. These programs were chosen as they represent considerable capital- and market share across Web3 ecosystems, even more so for Ethereum specifically~\cite{marz_airdrops_2024} and cover a variety of maturity levels, from experimental to advanced stages. The maturity levels of these programs are detailed in Table \ref{tab:gmf_composite_score}, which provides both additive and normalised composite scores.
+Based on the selection of the four most relevant Web3 grant programs, the GMF contains six observations because Arbitrum as one of the largest grant programs already differentiated between multiple tracks. These three ARB sub-programs were in place concurrently and too different in scope and nature to be included as one. Thus, the final set of assessed Web3 grant programs is the Arbitrum Short Term Incentive Program (STIP)~\cite{tnorm_arbitrums_2023,arbitrum_dao_arbitrum_2023} including its capital increase called \textit{Backfund}~\cite{frisson_arbitrum_2023}, the continuation of Arbitrum STIP referred to as \textit{Bridge}~\cite{lumley_stip-bridge_2024,arbitrum_dao_double-down_2024}, the Arbitrum Long-Term Incentive Pilot Program (LTIPP)~\cite{stein_arbitrum_2024}, the Mantle Grants Program~\cite{bitdao_passed_2023}, the Optimism Mission Round Program including rounds 3 and 4~\cite{the_optimism_collective_what_2024}, and Taiko's Incentivisation Grant Program. The maturity levels of these programs are detailed in Table \ref{tab:gmf_composite_score}, which provides both additive and normalised composite scores.
 
 \begin{table}[htbp]
 \caption{GMF Composite Scores}
@@ -306,9 +273,7 @@ Optimism & 3.6397 & 0.6105 \\
 \label{tab:gmf_composite_score}
 \end{table}
 
-These results show that the ARB LTIPP program achieved the highest score with a normalised composite in relative notation of 67.55\%, placing it in the \textit{developmental} stage corresponding to the third quartile. The Optimism Mission Rounds, with a normalised composite score of 61.05\%, also fall within the \textit{developmental} stage but with slightly lower maturity than ARB LTIPP. In contrast, the Taiko and Mantle programs scored lower, with normalised composites of 23.34\% and 27.29\% respectively, which places them in the \textit{experimental} stage, indicative of their early-phase status and need for further development.
-
-The detailed rubric maturity scores for each program are presented in Table~\ref{tab:rubric_scores}. This table shows the normalised scores for each program across the six rubric categories. Each category is scored on a scale from 0 to 1, which can also be expressed in relative notation through percentages, with higher scores indicating better performance in that particular aspect of the program.
+The programs were chosen as they represent considerable capital- and market share across Web3 ecosystems, even more so for Ethereum specifically~\cite{marz_airdrops_2024} and cover a variety of maturity levels, from experimental to advanced stages. In the study, ARB LTIPP program achieved the highest score with a normalised composite in relative notation of 67.55\%, placing it in the \textit{developmental} stage corresponding to the third quartile. The Optimism Mission Rounds, with a normalised composite score of 61.05\%, also fall within the \textit{developmental} stage but with slightly lower maturity than ARB LTIPP. In contrast, the Taiko and Mantle programs scored lower, with normalised composites of 23.34\% and 27.29\% respectively, which places them in the \textit{experimental} stage, indicative of their early-phase status and need for further development. The detailed rubric maturity scores for each program are presented in Table~\ref{tab:rubric_scores}.
 
 \begin{table}[htbp]
 \caption{Normalised Rubric Scores of Analysed Programs}
@@ -330,7 +295,7 @@ Optimism & 0.2210 & 1.0000 & 0.0000 & 1.0000 & 0.0000 & 0.4419 \\
 \label{tab:rubric_scores}
 \end{table}
 
-It is noteworthy that Arbitrum's STIP \& STIP Backfund program performed particularly well in the GOV category, scoring a perfect 1.0000, indicating a well-defined governance structure. However, it scored lower in EFI with 0.0769, reflecting a need for stronger measures of success and impact. Conversely, the Optimism program excelled in EFI with a perfect score of 1.0000 but scored lower in Community COM with 0.4419, suggesting room for improvement in its community outreach and involvement efforts. In contrast, the Taiko program shows lower scores across most categories, with particularly weak scores in FAO and Governance GOV, indicating it is still in the \textit{experimental} stage, with much work to be done in terms of defining clear objectives and governance structures. Mantle also shows lower scores, particularly in GOV and TAC, indicating that it is still in the \textit{foundational} stage and requires more robust processes and structures.
+This table shows the normalised scores for each program across the six rubric categories. Each category is scored on a scale from 0 to 1, which can also be expressed in relative notation through percentages, with higher scores indicating better performance in that particular aspect of the program. It is noteworthy that Arbitrum's STIP \& STIP Backfund program performed particularly well in the GOV category, scoring a perfect 1.0000, indicating a well-defined governance structure. However, it scored lower in EFI with 0.0769, reflecting a need for stronger measures of success and impact. Conversely, the Optimism program excelled in EFI with a perfect score of 1.0000 but scored lower in Community COM with 0.4419, suggesting room for improvement in its community outreach and involvement efforts. In contrast, the Taiko program shows lower scores across most categories, with particularly weak scores in FAO and Governance GOV, indicating it is still in the \textit{experimental} stage, with much work to be done in terms of defining clear objectives and governance structures. Mantle also shows lower scores, particularly in GOV and TAC, indicating that it is still in the \textit{foundational} stage and requires more robust processes and structures.
 
 \subsubsection{Optimism Growth and Experiment Grants}\label{sec_4.2.1}
 The Optimism Mission Grants program, part of the larger Optimism grant initiative, scored a normalised composite of 61.05\%, placing it in the \textit{developmental} stage. The program’s objective is to drive network adoption and support applications that align with the goals of the Optimism Collective. This program has matured beyond its initial exploratory phase, with well-established evaluation criteria and some degree of transparency in its decision-making process. Yet, there is still potential to expand its impact by diversifying supported projects and improving its governance framework.
@@ -342,13 +307,33 @@ Arbitrum’s multiple grant programs, including the STIP, STIP Backfund, STIP Br
 The Taiko Labs Incentivisation Grant Program scored a normalised composite of 23.34\%, placing it in the \textit{experimental} stage. While the program has ambitious goals for scalability and network adoption, it is still in the early stages of implementation. The program has made progress in defining its objectives but is still lacking in some areas such as governance, transparency, and community engagement.
 
 \subsubsection{Mantle Grants}\label{sec_4.2.4}
-The Mantle Grants Program, operated by BitDAO, scored a normalised composite of 27.29\%, placing it in the \textit{foundational} stage. While the program has a clear structure, it is still developing its governance processes and transparency mechanisms. To move into the \textit{developmental} stage, the program will need to refine its evaluation processes, improve the visibility of its funding decisions, and enhance its engagement with the broader community.
-
+The Mantle Grants Program, scored a normalised composite of 27.29\%, placing it in the \textit{foundational} stage. While the program has a clear structure, it is still developing its governance processes and transparency mechanisms. To move into the \textit{developmental} stage, the program will need to refine its evaluation processes, improve the visibility of its funding decisions, and enhance its engagement with the broader community.
 
 \subsection{Technology-Driven Improvement of Web3 Grant Maturity}\label{sec_4.3}
 
+The iterative development of the platform, guided by user feedback, led to improvements in grant management workflows when compared to the tooling used by programs assessed by the GMF, such as milestone tracking, and proposal submission. Given the large variance in results for the EFI rubric score, validation sessions, including user interviews and stakeholder brainstorming, particular attention was paid when participants identified inefficiencies in fund disbursement in the grants landscape. This prompted the introduction of a milestone-based funding system where grant issuers can review submitted milestones and release payments accordingly.
 
+\begin{figure}[htbp]
+\centerline{\includegraphics[scale=0.1]{auth-stake-submit.png}}
+\caption{One step staking and submission flow.}
+\label{fig:stake-submit}
+\end{figure}
 
+Following, overall low scores in TAC, a streamlined proposal submission process was developed for the prototype of a Web3 grant platform, combining bid bond staking and proposal submission into a single blockchain transaction. Figure~\ref{fig:stake-submit} shows how the prototype was designed to reduce complexity for applicants. Additionally, aspects not covered in the GMF were tested as an optional feature based on user feedback, such as know your business (KYB) verification in Figure~\ref{fig:kyb-optional}. The same applies to bid bonds, allowing Web3 grant operators to disable this requirement if deemed unnecessary.
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[scale=0.1]{KYB-optional.png}}
+\caption{Optional KYB form in application flow.}
+\label{fig:kyb-optional}
+\end{figure}
+
+User profiles and dashboards were implemented to enhance transparency, usability, and create a place for community engagement. The absence of user profiles in earlier iterations led to concerns regarding information asymmetry. Figure~\ref{fig:all-rfps} shows the dashboard that provides funders with a centralised view of (sub-)programs and allows applicants to track their proposal status. Finally, on-platform evaluation tools were also introduced to improve grant assessment capabilities, so that funders manage milestone reviews, provide structured feedback, and conduct qualitative and quantitative evaluations.
+
+\begin{figure}[htbp]
+\centerline{\includegraphics[scale=0.1]{all-rfps.png}}
+\caption{Features optimised for higher scores in TAC and COM.}
+\label{fig:all-rfps}
+\end{figure}
 
 \section{Discussion}\label{sec_5}
 
@@ -358,25 +343,18 @@ The findings underscore the GMF’s ability to bridge exploratory research and s
 
 In sum, the GMF serves as a micro-level maturity index for Web3 grants. Due to the emerging nature of Web3 grant research, the GMF is a non-exhaustive collection of indicators, providing a foundational model for assessing the maturity of selected Web3 grant programs. Further research should refine the tracked characteristics for a larger set of programs, including retroactive ones and those outside the Ethereum network. This research follows OECD guidelines on multivariate composite indicators~\cite{oecd_handbook_2008}, but lacks the maturity of long-standing macro-economic composite indices, such as the human development index (HDI).
 
+Nevertheless, the GMF's results enabled an iterative, user-driven design approach for developing a platform that optimises Web3 grant management for an increase in maturity. The introduction of milestone-based funding enhances financial accountability by ensuring structured disbursement. Consolidating bid bond staking and proposal submission improved usability and reduced transaction costs. The optional KYB feature reflects the platform’s adaptability, allowing RFP issuers to enforce compliance selectively. Overall this phased mixed-method approach is evidence based and led to a system that balances transparency with ease of participation without compromising trustworthiness. Intuitive dashboards and structured evaluation tools promote accountability, enabling funders to track applications efficiently while ensuring applicants receive timely feedback. Continued validation and usability testing must be conducted in tandem with continued and broadened measurement of Web3 grant program maturity to ensure that the platform remains aligned with the needs of its users.
+
 
 \section{Conclusions and Future Work}\label{sec_6}
 
-In the future, the GMF may be used as a tool for Web3 grant program strategy development and audits.
+The GMF contributed not only on a practical level to the understanding of Web3 grant programs, but also laid the foundation for future theoretical work that could challenge the legitimacy of processes in incumbent Web3 grant programs based on their maturity. The study was designed to ascertain the characteristics, differences, and applications of Web3 specific grant programs. In turn, the GMF may accelerate the maturing of Web3 grant programs by providing Web3 grant operators a tool for self-assessment and benchmarking. As a framework, it already informed the approach of a concrete development initiative for Web3 grant tooling. As a result, the research could respond to the three research questions by defining the GMF, applying it to four Web3 grant programs, and technically addressing shortcomings that led to lower maturity scores.
 
-
-Hence, the GMF aims to not only contribute on a practical level to the understanding of Web3 grant programs, but also lays the foundation for future theoretical work that could challenge established notions of legitimacy. This study is designed, however, to ascertain the characteristics, differences, and applications of Web3 specific grant programs. In turn, the GMF may accelerate the maturing of Web3 grant programs by providing Web3 grant operators a tool for self-assessment and benchmarking. As a result, the GMF is anticipated to increase robustness and integrity of Web3 grants by providing transparency as an incentive for good governance of grant funds and Web3 grant decision making processes. For this reason, the next sections explain the composition, computation, and application of the GMF to be used as a tool for future research.
-
-
-\begin{figure}[htbp]
-\centerline{\includegraphics[scale=0.1]{suibond.png}}
-\caption{This shows the suibond application.}
-\label{fig}
-\end{figure}
-
+In the future, the GMF may be used as a tool for Web3 grant program strategy development and audits, thereby increasing the robustness and integrity of Web3 grants. While the prototype of the Web3 grant management platform enters its final validation phase with a representative sample of Web3 grant stakeholders participating in semi-guided qualitative interview to refine usability, technological innovation alone will not increase the maturity of Web3 grant programs. Instead, transparent decision making processes and incentives for good governance in Web3 are needed to sustainably improve capital allocation in the sector.
 
 \section*{Acknowledgment}
 
-We thank Eugene and Matthew for review and contributions.
+We thank Matthew Scerri for his contributions to the AUTHBOND platform, Eugene Leventhal for his feedback, the anonymous reviewers, and the participants in the study for their support.
 
 \bibliographystyle{IEEEtran}
 \bibliography{IEEEabrv,ieee_icbc_tc_bib}
